@@ -2,7 +2,7 @@
 	"_meta": {
 		"sources": [
 			{
-				"json": "WITHomebrew",
+				"json": "WITH",
 				"abbreviation": "WITH",
 				"full": "Wind in Tree's Homebrew",
 				"authors": [
@@ -19,7 +19,7 @@
 	"variantrule": [
 		{
 			"name": "Rest Variant - Somewhat Gritty Realism",
-			"source": "EH",
+			"source": "WITH",
 			"ruleType": "V",
 			"entries": [
 				{

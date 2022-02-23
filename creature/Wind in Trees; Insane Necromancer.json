@@ -2,7 +2,7 @@
 	"_meta": {
 		"sources": [
 			{
-				"json": "WITHomebrew",
+				"json": "WITH",
 				"abbreviation": "WITH",
 				"full": "Wind in Tree's Homebrew",
 				"authors": [
@@ -21,7 +21,7 @@
 			"name": "Insane Necromancer",
 			"size": "M",
 			"type": "humanoid",
-			"source": "EH",
+			"source": "WITH",
 			"alignment": [
 				"C",
 				"N"
