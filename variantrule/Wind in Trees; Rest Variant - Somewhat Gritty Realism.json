@@ -2,15 +2,15 @@
 	"_meta": {
 		"sources": [
 			{
-				"json": "EricsHomebrew",
-				"abbreviation": "EH",
-				"full": "Eric's Homebrew",
+				"json": "WITHomebrew",
+				"abbreviation": "WITH",
+				"full": "Wind in Tree's Homebrew",
 				"authors": [
-					"Eric"
+					"Wind in Trees"
 				],
 				"version": "1.0.0",
-				"url": "https://github.com/Irregulator101/EricsHomebrew",
-				"targetSchema": "1.2"
+				"url": "https://github.com/Irregulator101/WindInTreesHomebrew",
+				"targetSchema": "1.2.3"
 			}
 		],
 		"dateAdded": 1645645994,
