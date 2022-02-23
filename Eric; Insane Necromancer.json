@@ -1,0 +1,97 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "EricsHomebrew",
+				"abbreviation": "EH",
+				"full": "Eric's Homebrew",
+				"authors": [
+					"Eric"
+				],
+				"version": "0.1.0",
+				"url": "https://github.com/Irregulator101/EricsHomebrew",
+				"targetSchema": "1.2.3"
+			}
+		],
+		"dateAdded": 1645645994,
+		"dateLastModified": 1645645994
+	},
+	"name": "Insane Necromancer",
+	"size": "M",
+	"type": "humanoid",
+	"source": "EH",
+	"alignment": [
+		"C",
+		"N"
+	],
+	"ac": [
+		{
+			"ac": 12,
+			"from": [
+				"{@item common clothes|phb}"
+			]
+		}
+	],
+	"hp": {
+		"formula": "8d6",
+		"average": 28
+	},
+	"speed": {
+		"walk": 30
+	},
+	"str": 10,
+	"dex": 14,
+	"con": 8,
+	"int": 18,
+	"wis": 8,
+	"cha": 11,
+	"passive": 10,
+	"cr": {
+		"cr": "3",
+		"lair": "5"
+	},
+	"save": {
+		"dex": "+4",
+		"int": "+6"
+	},
+	"skill": {
+		"arcana": "+6"
+	},
+	"conditionImmune": [
+		"frightened"
+	],
+	"languages": [
+		"Common"
+	],
+	"languageTags": [
+		"C"
+	],
+	"resist": [
+		"necrotic"
+	],
+	"legendaryHeader": [
+		"The insane necromancer commands a small horde of the undead. If encountered amongst their horde, the necromancer has access to the following legendary actions:"
+	],
+	"legendary": [
+		{
+			"name": "Servant Self-Sacrifice",
+			"entries": [
+				"When the necromancer is hit by an attack, they can use their reaction to telepathically order an undead creature under their command that is within 5 ft to take the blow instead."
+			]
+		}
+	],
+	"spellcasting": [
+		{
+			"name": "Spellcasting",
+			"headerEntries": [
+				"The insane necromancer can cast the following spells while their cursed {@item Ioun Stone, Intellect|dmg} is equipped:"
+			],
+			"daily": {
+				"3": [
+					"{@spell animate dead}"
+				]
+			},
+			"type": "spellcasting"
+		}
+	]
+}

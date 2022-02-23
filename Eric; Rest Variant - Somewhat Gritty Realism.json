@@ -1,0 +1,32 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "EricsHomebrew",
+				"abbreviation": "EH",
+				"full": "Eric's Homebrew",
+				"authors": [
+					"Eric"
+				],
+				"version": "0.1.0",
+				"url": "https://github.com/Irregulator101/EricsHomebrew",
+				"targetSchema": "1.2.3"
+			}
+		],
+		"dateAdded": 1645645994,
+		"dateLastModified": 1645645994
+	},
+	"type": "entries",
+	"name": "Rest Variant - Somewhat Gritty Realism",
+	"source": "EH",
+	"ruleType": "V",
+	"entries": [
+		{
+		  "type": "entries",
+		  "entries": [
+		    "This rest variant uses a short rest of four (4) hours and a long rest of two (2) days. A new \"breather\" rest can be taken for an opportunity to roll hit dice to recover hitpoints, but it does not confer the other benefits of a short rest such as spell slot replenishment. The length of a breather is determined by how many hit dice players wish to expend: 10 minutes per hit die.",
+		    "This approach may slow the pace of the campaign, reducing the number of encounters a party can engage in on a typical adventuring day from 6-8 to 3-4. Additionally, a short rest of four hours discourages attempting one in dangerous areas. Two day long rests encourage staying near civilization, or spending time to upgrade a campsite to a more defensible base of operations."
+		  ]
+		}
+	]
+}
