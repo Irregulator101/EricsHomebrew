@@ -1,4 +1,5 @@
 {
+    "$schema": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_schema-fast/homebrew.json",
     "_meta": {
         "sources": [
             {
@@ -10,7 +11,7 @@
                 ],
                 "version": "1.0.0",
                 "url": "https://github.com/Irregulator101/WindInTreesHomebrew",
-                "targetSchema": "1.2.3"
+                "targetSchema": "1.10.0"
             }
         ],
         "dateAdded": 1659975826,
