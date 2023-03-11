@@ -1,0 +1,8316 @@
+{
+	"siteVersion": "1.167.5",
+	"fileType": "content-blacklist",
+	"blacklist": [
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "AAG"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "AI"
+		},
+		{
+			"displayName": "Trinket",
+			"hash": "trinket_ai",
+			"category": "item",
+			"source": "AI"
+		},
+		{
+			"displayName": "Mithral +1 Armor",
+			"hash": "mithral%20%2b1%20armor_ai",
+			"category": "magicvariant",
+			"source": "AI"
+		},
+		{
+			"displayName": "Vicious +1 Weapon",
+			"hash": "vicious%20%2b1%20weapon_ai",
+			"category": "magicvariant",
+			"source": "AI"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "AL"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "ALCurseOfStrahd"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "ALElementalEvil"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "ALRageOfDemons"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "AWM"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "AZfyT"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "AitFR-AVT"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "AitFR-DN"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "AitFR-FCD"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "AitFR-ISF"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "AitFR-THP"
+		},
+		{
+			"displayName": "Battle Standard of Infernal Power",
+			"hash": "battle%20standard%20of%20infernal%20power_bgdia",
+			"category": "item",
+			"source": "BGDIA"
+		},
+		{
+			"displayName": "Blade of Avernus",
+			"hash": "blade%20of%20avernus_bgdia",
+			"category": "item",
+			"source": "BGDIA"
+		},
+		{
+			"displayName": "Candle Mace",
+			"hash": "candle%20mace_bgdia",
+			"category": "item",
+			"source": "BGDIA"
+		},
+		{
+			"displayName": "Fane-Eater",
+			"hash": "fane-eater_bgdia",
+			"category": "item",
+			"source": "BGDIA"
+		},
+		{
+			"displayName": "Gauntlets of Flaming Fury",
+			"hash": "gauntlets%20of%20flaming%20fury_bgdia",
+			"category": "item",
+			"source": "BGDIA"
+		},
+		{
+			"displayName": "Helm of Devil Command",
+			"hash": "helm%20of%20devil%20command_bgdia",
+			"category": "item",
+			"source": "BGDIA"
+		},
+		{
+			"displayName": "Infernal Puzzle Box",
+			"hash": "infernal%20puzzle%20box_bgdia",
+			"category": "item",
+			"source": "BGDIA"
+		},
+		{
+			"displayName": "Matalotok",
+			"hash": "matalotok_bgdia",
+			"category": "item",
+			"source": "BGDIA"
+		},
+		{
+			"displayName": "Obsidian Flint Dragon Plate",
+			"hash": "obsidian%20flint%20dragon%20plate_bgdia",
+			"category": "item",
+			"source": "BGDIA"
+		},
+		{
+			"displayName": "Shatterstick",
+			"hash": "shatterstick_bgdia",
+			"category": "item",
+			"source": "BGDIA"
+		},
+		{
+			"displayName": "Shield of the Hidden Lord",
+			"hash": "shield%20of%20the%20hidden%20lord_bgdia",
+			"category": "item",
+			"source": "BGDIA"
+		},
+		{
+			"displayName": "Soul Coin",
+			"hash": "soul%20coin_bgdia",
+			"category": "item",
+			"source": "BGDIA"
+		},
+		{
+			"displayName": "Sword of Zariel",
+			"hash": "sword%20of%20zariel_bgdia",
+			"category": "item",
+			"source": "BGDIA"
+		},
+		{
+			"displayName": "Hellfire Weapon",
+			"hash": "hellfire%20weapon_bgdia",
+			"category": "magicvariant",
+			"source": "BGDIA"
+		},
+		{
+			"displayName": "Alchemy Jug (Blue)",
+			"hash": "alchemy%20jug%20(blue)_cm",
+			"category": "item",
+			"source": "CM"
+		},
+		{
+			"displayName": "Alchemy Jug (Orange)",
+			"hash": "alchemy%20jug%20(orange)_cm",
+			"category": "item",
+			"source": "CM"
+		},
+		{
+			"displayName": "Cracked Driftglobe",
+			"hash": "cracked%20driftglobe_cm",
+			"category": "item",
+			"source": "CM"
+		},
+		{
+			"displayName": "Gloves of Soul Catching",
+			"hash": "gloves%20of%20soul%20catching_cm",
+			"category": "item",
+			"source": "CM"
+		},
+		{
+			"displayName": "Nether Scroll of Azumar",
+			"hash": "nether%20scroll%20of%20azumar_cm",
+			"category": "item",
+			"source": "CM"
+		},
+		{
+			"displayName": "Orcus Figurine",
+			"hash": "orcus%20figurine_cm",
+			"category": "item",
+			"source": "CM"
+		},
+		{
+			"displayName": "Radiance",
+			"hash": "radiance_cm",
+			"category": "item",
+			"source": "CM"
+		},
+		{
+			"displayName": "Serpent Scale Armor",
+			"hash": "serpent%20scale%20armor_cm",
+			"category": "item",
+			"source": "CM"
+		},
+		{
+			"displayName": "Serpent's Fang",
+			"hash": "serpent's%20fang_cm",
+			"category": "item",
+			"source": "CM"
+		},
+		{
+			"displayName": "Staff of Fate",
+			"hash": "staff%20of%20fate_cm",
+			"category": "item",
+			"source": "CM"
+		},
+		{
+			"displayName": "Stonky's ring",
+			"hash": "stonky's%20ring_cm",
+			"category": "item",
+			"source": "CM"
+		},
+		{
+			"displayName": "Watchful Helm",
+			"hash": "watchful%20helm_cm",
+			"category": "item",
+			"source": "CM"
+		},
+		{
+			"displayName": "Earring of Message",
+			"hash": "earring%20of%20message_crcotn",
+			"category": "item",
+			"source": "CRCotN"
+		},
+		{
+			"displayName": "Jewel of Three Prayers (Awakened)",
+			"hash": "jewel%20of%20three%20prayers%20(awakened)_crcotn",
+			"category": "item",
+			"source": "CRCotN"
+		},
+		{
+			"displayName": "Jewel of Three Prayers (Dormant)",
+			"hash": "jewel%20of%20three%20prayers%20(dormant)_crcotn",
+			"category": "item",
+			"source": "CRCotN"
+		},
+		{
+			"displayName": "Jewel of Three Prayers (Exalted)",
+			"hash": "jewel%20of%20three%20prayers%20(exalted)_crcotn",
+			"category": "item",
+			"source": "CRCotN"
+		},
+		{
+			"displayName": "Medal of Muscle",
+			"hash": "medal%20of%20muscle_crcotn",
+			"category": "item",
+			"source": "CRCotN"
+		},
+		{
+			"displayName": "Medal of Wit",
+			"hash": "medal%20of%20wit_crcotn",
+			"category": "item",
+			"source": "CRCotN"
+		},
+		{
+			"displayName": "Medal of the Conch",
+			"hash": "medal%20of%20the%20conch_crcotn",
+			"category": "item",
+			"source": "CRCotN"
+		},
+		{
+			"displayName": "Medal of the Horizonback",
+			"hash": "medal%20of%20the%20horizonback_crcotn",
+			"category": "item",
+			"source": "CRCotN"
+		},
+		{
+			"displayName": "Medal of the Maze",
+			"hash": "medal%20of%20the%20maze_crcotn",
+			"category": "item",
+			"source": "CRCotN"
+		},
+		{
+			"displayName": "Medal of the Meat Pie",
+			"hash": "medal%20of%20the%20meat%20pie_crcotn",
+			"category": "item",
+			"source": "CRCotN"
+		},
+		{
+			"displayName": "Medal of the Wetlands",
+			"hash": "medal%20of%20the%20wetlands_crcotn",
+			"category": "item",
+			"source": "CRCotN"
+		},
+		{
+			"displayName": "Ring of Red Fury",
+			"hash": "ring%20of%20red%20fury_crcotn",
+			"category": "item",
+			"source": "CRCotN"
+		},
+		{
+			"displayName": "Teleportation Tablet",
+			"hash": "teleportation%20tablet_crcotn",
+			"category": "item",
+			"source": "CRCotN"
+		},
+		{
+			"displayName": "Jewel of Three Prayers",
+			"hash": "jewel%20of%20three%20prayers_crcotn",
+			"category": "itemGroup",
+			"source": "CRCotN"
+		},
+		{
+			"displayName": "Blood Spear",
+			"hash": "blood%20spear_cos",
+			"category": "item",
+			"source": "CoS"
+		},
+		{
+			"displayName": "Green Copper Ewer",
+			"hash": "green%20copper%20ewer_cos",
+			"category": "item",
+			"source": "CoS"
+		},
+		{
+			"displayName": "Gulthias Staff",
+			"hash": "gulthias%20staff_cos",
+			"category": "item",
+			"source": "CoS"
+		},
+		{
+			"displayName": "Holy Symbol of Ravenkind",
+			"hash": "holy%20symbol%20of%20ravenkind_cos",
+			"category": "item",
+			"source": "CoS"
+		},
+		{
+			"displayName": "Icon of Ravenloft",
+			"hash": "icon%20of%20ravenloft_cos",
+			"category": "item",
+			"source": "CoS"
+		},
+		{
+			"displayName": "Jakarion's Staff of Frost",
+			"hash": "jakarion's%20staff%20of%20frost_cos",
+			"category": "item",
+			"source": "CoS"
+		},
+		{
+			"displayName": "Lost Sword",
+			"hash": "lost%20sword_cos",
+			"category": "item",
+			"source": "CoS"
+		},
+		{
+			"displayName": "Order of the Silver Dragon +2 Shield",
+			"hash": "order%20of%20the%20silver%20dragon%20%2b2%20shield_cos",
+			"category": "item",
+			"source": "CoS"
+		},
+		{
+			"displayName": "Saint Markovia's Thighbone",
+			"hash": "saint%20markovia's%20thighbone_cos",
+			"category": "item",
+			"source": "CoS"
+		},
+		{
+			"displayName": "Statuette of Saint Markovia",
+			"hash": "statuette%20of%20saint%20markovia_cos",
+			"category": "item",
+			"source": "CoS"
+		},
+		{
+			"displayName": "Sunsword",
+			"hash": "sunsword_cos",
+			"category": "item",
+			"source": "CoS"
+		},
+		{
+			"displayName": "Tome of Strahd",
+			"hash": "tome%20of%20strahd_cos",
+			"category": "item",
+			"source": "CoS"
+		},
+		{
+			"displayName": "Treebane",
+			"hash": "treebane_cos",
+			"category": "item",
+			"source": "CoS"
+		},
+		{
+			"displayName": "Gnomengarde Grenade",
+			"hash": "gnomengarde%20grenade_dc",
+			"category": "item",
+			"source": "DC"
+		},
+		{
+			"displayName": "Ruinstone",
+			"hash": "ruinstone_dc",
+			"category": "item",
+			"source": "DC"
+		},
+		{
+			"displayName": "Antimatter Rifle",
+			"hash": "antimatter%20rifle_dmg",
+			"category": "baseitem",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Automatic Pistol",
+			"hash": "automatic%20pistol_dmg",
+			"category": "baseitem",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Automatic Rifle",
+			"hash": "automatic%20rifle_dmg",
+			"category": "baseitem",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Energy Cell",
+			"hash": "energy%20cell_dmg",
+			"category": "baseitem",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Hunting Rifle",
+			"hash": "hunting%20rifle_dmg",
+			"category": "baseitem",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Laser Pistol",
+			"hash": "laser%20pistol_dmg",
+			"category": "baseitem",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Laser Rifle",
+			"hash": "laser%20rifle_dmg",
+			"category": "baseitem",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Modern Bullet",
+			"hash": "modern%20bullet_dmg",
+			"category": "baseitem",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Modern Bullets (10)",
+			"hash": "modern%20bullets%20(10)_dmg",
+			"category": "baseitem",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Musket",
+			"hash": "musket_dmg",
+			"category": "baseitem",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Pistol",
+			"hash": "pistol_dmg",
+			"category": "baseitem",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Renaissance Bullet",
+			"hash": "renaissance%20bullet_dmg",
+			"category": "baseitem",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Renaissance Bullets (10)",
+			"hash": "renaissance%20bullets%20(10)_dmg",
+			"category": "baseitem",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Revolver",
+			"hash": "revolver_dmg",
+			"category": "baseitem",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Shotgun",
+			"hash": "shotgun_dmg",
+			"category": "baseitem",
+			"source": "DMG"
+		},
+		{
+			"displayName": "+1 Rod of the Pact Keeper",
+			"hash": "%2b1%20rod%20of%20the%20pact%20keeper_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "+1 Wand of the War Mage",
+			"hash": "%2b1%20wand%20of%20the%20war%20mage_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "+2 Rod of the Pact Keeper",
+			"hash": "%2b2%20rod%20of%20the%20pact%20keeper_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "+2 Wand of the War Mage",
+			"hash": "%2b2%20wand%20of%20the%20war%20mage_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "+3 Rod of the Pact Keeper",
+			"hash": "%2b3%20rod%20of%20the%20pact%20keeper_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "+3 Wand of the War Mage",
+			"hash": "%2b3%20wand%20of%20the%20war%20mage_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Alchemy Jug",
+			"hash": "alchemy%20jug_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Amulet of Health",
+			"hash": "amulet%20of%20health_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Amulet of Proof against Detection and Location",
+			"hash": "amulet%20of%20proof%20against%20detection%20and%20location_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Amulet of the Planes",
+			"hash": "amulet%20of%20the%20planes_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Animated Shield",
+			"hash": "animated%20shield_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Apparatus of Kwalish",
+			"hash": "apparatus%20of%20kwalish_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Armor of Invulnerability",
+			"hash": "armor%20of%20invulnerability_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Armor of Vulnerability (Bludgeoning)",
+			"hash": "armor%20of%20vulnerability%20(bludgeoning)_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Armor of Vulnerability (Piercing)",
+			"hash": "armor%20of%20vulnerability%20(piercing)_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Armor of Vulnerability (Slashing)",
+			"hash": "armor%20of%20vulnerability%20(slashing)_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Arrow-Catching Shield",
+			"hash": "arrow-catching%20shield_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Axe of the Dwarvish Lords",
+			"hash": "axe%20of%20the%20dwarvish%20lords_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Bag of Beans",
+			"hash": "bag%20of%20beans_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Bag of Devouring",
+			"hash": "bag%20of%20devouring_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Bag of Holding",
+			"hash": "bag%20of%20holding_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Bag of Tricks, Gray",
+			"hash": "bag%20of%20tricks%2c%20gray_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Bag of Tricks, Rust",
+			"hash": "bag%20of%20tricks%2c%20rust_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Bag of Tricks, Tan",
+			"hash": "bag%20of%20tricks%2c%20tan_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Bead of Force",
+			"hash": "bead%20of%20force_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Belt of Cloud Giant Strength",
+			"hash": "belt%20of%20cloud%20giant%20strength_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Belt of Dwarvenkind",
+			"hash": "belt%20of%20dwarvenkind_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Belt of Fire Giant Strength",
+			"hash": "belt%20of%20fire%20giant%20strength_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Belt of Frost Giant Strength",
+			"hash": "belt%20of%20frost%20giant%20strength_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Belt of Hill Giant Strength",
+			"hash": "belt%20of%20hill%20giant%20strength_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Belt of Stone Giant Strength",
+			"hash": "belt%20of%20stone%20giant%20strength_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Belt of Storm Giant Strength",
+			"hash": "belt%20of%20storm%20giant%20strength_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Black Dragon Scale Mail",
+			"hash": "black%20dragon%20scale%20mail_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Blackrazor",
+			"hash": "blackrazor_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Blue Dragon Scale Mail",
+			"hash": "blue%20dragon%20scale%20mail_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Book of Exalted Deeds",
+			"hash": "book%20of%20exalted%20deeds_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Book of Vile Darkness",
+			"hash": "book%20of%20vile%20darkness_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Boots of Elvenkind",
+			"hash": "boots%20of%20elvenkind_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Boots of Levitation",
+			"hash": "boots%20of%20levitation_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Boots of Speed",
+			"hash": "boots%20of%20speed_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Boots of Striding and Springing",
+			"hash": "boots%20of%20striding%20and%20springing_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Boots of the Winterlands",
+			"hash": "boots%20of%20the%20winterlands_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Bowl of Commanding Water Elementals",
+			"hash": "bowl%20of%20commanding%20water%20elementals_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Bracers of Archery",
+			"hash": "bracers%20of%20archery_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Bracers of Defense",
+			"hash": "bracers%20of%20defense_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Brass Dragon Scale Mail",
+			"hash": "brass%20dragon%20scale%20mail_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Brazier of Commanding Fire Elementals",
+			"hash": "brazier%20of%20commanding%20fire%20elementals_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Bronze Dragon Scale Mail",
+			"hash": "bronze%20dragon%20scale%20mail_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Brooch of Shielding",
+			"hash": "brooch%20of%20shielding_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Broom of Flying",
+			"hash": "broom%20of%20flying_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Candle of Invocation",
+			"hash": "candle%20of%20invocation_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Cap of Water Breathing",
+			"hash": "cap%20of%20water%20breathing_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Cape of the Mountebank",
+			"hash": "cape%20of%20the%20mountebank_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Carpet of Flying, 3 ft. × 5 ft.",
+			"hash": "carpet%20of%20flying%2c%203%20ft.%20%c3%97%205%20ft._dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Carpet of Flying, 4 ft. × 6 ft.",
+			"hash": "carpet%20of%20flying%2c%204%20ft.%20%c3%97%206%20ft._dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Carpet of Flying, 5 ft. × 7 ft.",
+			"hash": "carpet%20of%20flying%2c%205%20ft.%20%c3%97%207%20ft._dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Carpet of Flying, 6 ft. × 9 ft.",
+			"hash": "carpet%20of%20flying%2c%206%20ft.%20%c3%97%209%20ft._dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Censer of Controlling Air Elementals",
+			"hash": "censer%20of%20controlling%20air%20elementals_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Chime of Opening",
+			"hash": "chime%20of%20opening_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Circlet of Blasting",
+			"hash": "circlet%20of%20blasting_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Cloak of Arachnida",
+			"hash": "cloak%20of%20arachnida_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Cloak of Displacement",
+			"hash": "cloak%20of%20displacement_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Cloak of Elvenkind",
+			"hash": "cloak%20of%20elvenkind_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Cloak of Invisibility",
+			"hash": "cloak%20of%20invisibility_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Cloak of Protection",
+			"hash": "cloak%20of%20protection_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Cloak of the Bat",
+			"hash": "cloak%20of%20the%20bat_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Cloak of the Manta Ray",
+			"hash": "cloak%20of%20the%20manta%20ray_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Copper Dragon Scale Mail",
+			"hash": "copper%20dragon%20scale%20mail_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Crystal Ball",
+			"hash": "crystal%20ball_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Crystal Ball of Mind Reading",
+			"hash": "crystal%20ball%20of%20mind%20reading_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Crystal Ball of Telepathy",
+			"hash": "crystal%20ball%20of%20telepathy_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Crystal Ball of True Seeing",
+			"hash": "crystal%20ball%20of%20true%20seeing_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Cube of Force",
+			"hash": "cube%20of%20force_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Cubic Gate",
+			"hash": "cubic%20gate_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Daern's Instant Fortress",
+			"hash": "daern's%20instant%20fortress_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Dagger of Venom",
+			"hash": "dagger%20of%20venom_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Decanter of Endless Water",
+			"hash": "decanter%20of%20endless%20water_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Deck of Illusions",
+			"hash": "deck%20of%20illusions_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Deck of Many Things",
+			"hash": "deck%20of%20many%20things_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Demon Armor",
+			"hash": "demon%20armor_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Dimensional Shackles",
+			"hash": "dimensional%20shackles_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Driftglobe",
+			"hash": "driftglobe_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Dust of Disappearance",
+			"hash": "dust%20of%20disappearance_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Dust of Dryness",
+			"hash": "dust%20of%20dryness_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Dust of Sneezing and Choking",
+			"hash": "dust%20of%20sneezing%20and%20choking_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Dwarven Plate",
+			"hash": "dwarven%20plate_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Dwarven Thrower",
+			"hash": "dwarven%20thrower_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Dynamite (stick)",
+			"hash": "dynamite%20(stick)_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Efreeti Bottle",
+			"hash": "efreeti%20bottle_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Efreeti Chain",
+			"hash": "efreeti%20chain_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Elemental Gem, Blue Sapphire",
+			"hash": "elemental%20gem%2c%20blue%20sapphire_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Elemental Gem, Emerald",
+			"hash": "elemental%20gem%2c%20emerald_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Elemental Gem, Red Corundum",
+			"hash": "elemental%20gem%2c%20red%20corundum_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Elemental Gem, Yellow Diamond",
+			"hash": "elemental%20gem%2c%20yellow%20diamond_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Elixir of Health",
+			"hash": "elixir%20of%20health_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Elven Chain",
+			"hash": "elven%20chain_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Eversmoking Bottle",
+			"hash": "eversmoking%20bottle_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Eye of Vecna",
+			"hash": "eye%20of%20vecna_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Eyes of Charming",
+			"hash": "eyes%20of%20charming_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Eyes of Minute Seeing",
+			"hash": "eyes%20of%20minute%20seeing_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Eyes of the Eagle",
+			"hash": "eyes%20of%20the%20eagle_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Figurine of Wondrous Power, Bronze Griffon",
+			"hash": "figurine%20of%20wondrous%20power%2c%20bronze%20griffon_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Figurine of Wondrous Power, Ebony Fly",
+			"hash": "figurine%20of%20wondrous%20power%2c%20ebony%20fly_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Figurine of Wondrous Power, Golden Lions",
+			"hash": "figurine%20of%20wondrous%20power%2c%20golden%20lions_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Figurine of Wondrous Power, Ivory Goats",
+			"hash": "figurine%20of%20wondrous%20power%2c%20ivory%20goats_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Figurine of Wondrous Power, Marble Elephant",
+			"hash": "figurine%20of%20wondrous%20power%2c%20marble%20elephant_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Figurine of Wondrous Power, Obsidian Steed",
+			"hash": "figurine%20of%20wondrous%20power%2c%20obsidian%20steed_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Figurine of Wondrous Power, Onyx Dog",
+			"hash": "figurine%20of%20wondrous%20power%2c%20onyx%20dog_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Figurine of Wondrous Power, Serpentine Owl",
+			"hash": "figurine%20of%20wondrous%20power%2c%20serpentine%20owl_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Figurine of Wondrous Power, Silver Raven",
+			"hash": "figurine%20of%20wondrous%20power%2c%20silver%20raven_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Folding Boat",
+			"hash": "folding%20boat_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Fragmentation Grenade",
+			"hash": "fragmentation%20grenade_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Gauntlets of Ogre Power",
+			"hash": "gauntlets%20of%20ogre%20power_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Gem of Brightness",
+			"hash": "gem%20of%20brightness_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Gem of Seeing",
+			"hash": "gem%20of%20seeing_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Glamoured Studded Leather",
+			"hash": "glamoured%20studded%20leather_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Gloves of Missile Snaring",
+			"hash": "gloves%20of%20missile%20snaring_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Gloves of Swimming and Climbing",
+			"hash": "gloves%20of%20swimming%20and%20climbing_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Gloves of Thievery",
+			"hash": "gloves%20of%20thievery_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Goggles of Night",
+			"hash": "goggles%20of%20night_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Gold Dragon Scale Mail",
+			"hash": "gold%20dragon%20scale%20mail_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Green Dragon Scale Mail",
+			"hash": "green%20dragon%20scale%20mail_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Grenade Launcher",
+			"hash": "grenade%20launcher_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Hammer of Thunderbolts",
+			"hash": "hammer%20of%20thunderbolts_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Hand of Vecna",
+			"hash": "hand%20of%20vecna_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Hat of Disguise",
+			"hash": "hat%20of%20disguise_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Headband of Intellect",
+			"hash": "headband%20of%20intellect_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Helm of Brilliance",
+			"hash": "helm%20of%20brilliance_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Helm of Comprehending Languages",
+			"hash": "helm%20of%20comprehending%20languages_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Helm of Telepathy",
+			"hash": "helm%20of%20telepathy_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Helm of Teleportation",
+			"hash": "helm%20of%20teleportation_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Heward's Handy Haversack",
+			"hash": "heward's%20handy%20haversack_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Horn of Blasting",
+			"hash": "horn%20of%20blasting_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Horn of Valhalla, Brass",
+			"hash": "horn%20of%20valhalla%2c%20brass_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Horn of Valhalla, Bronze",
+			"hash": "horn%20of%20valhalla%2c%20bronze_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Horn of Valhalla, Iron",
+			"hash": "horn%20of%20valhalla%2c%20iron_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Horn of Valhalla, Silver",
+			"hash": "horn%20of%20valhalla%2c%20silver_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Horseshoes of Speed",
+			"hash": "horseshoes%20of%20speed_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Horseshoes of a Zephyr",
+			"hash": "horseshoes%20of%20a%20zephyr_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Immovable Rod",
+			"hash": "immovable%20rod_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Instrument of the Bards, Anstruth Harp",
+			"hash": "instrument%20of%20the%20bards%2c%20anstruth%20harp_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Instrument of the Bards, Canaith Mandolin",
+			"hash": "instrument%20of%20the%20bards%2c%20canaith%20mandolin_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Instrument of the Bards, Cli Lyre",
+			"hash": "instrument%20of%20the%20bards%2c%20cli%20lyre_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Instrument of the Bards, Doss Lute",
+			"hash": "instrument%20of%20the%20bards%2c%20doss%20lute_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Instrument of the Bards, Fochlucan Bandore",
+			"hash": "instrument%20of%20the%20bards%2c%20fochlucan%20bandore_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Instrument of the Bards, Mac-Fuirmidh Cittern",
+			"hash": "instrument%20of%20the%20bards%2c%20mac-fuirmidh%20cittern_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Instrument of the Bards, Ollamh Harp",
+			"hash": "instrument%20of%20the%20bards%2c%20ollamh%20harp_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ioun Stone, Absorption",
+			"hash": "ioun%20stone%2c%20absorption_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ioun Stone, Agility",
+			"hash": "ioun%20stone%2c%20agility_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ioun Stone, Awareness",
+			"hash": "ioun%20stone%2c%20awareness_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ioun Stone, Fortitude",
+			"hash": "ioun%20stone%2c%20fortitude_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ioun Stone, Greater Absorption",
+			"hash": "ioun%20stone%2c%20greater%20absorption_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ioun Stone, Insight",
+			"hash": "ioun%20stone%2c%20insight_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ioun Stone, Intellect",
+			"hash": "ioun%20stone%2c%20intellect_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ioun Stone, Leadership",
+			"hash": "ioun%20stone%2c%20leadership_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ioun Stone, Mastery",
+			"hash": "ioun%20stone%2c%20mastery_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ioun Stone, Protection",
+			"hash": "ioun%20stone%2c%20protection_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ioun Stone, Regeneration",
+			"hash": "ioun%20stone%2c%20regeneration_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ioun Stone, Reserve",
+			"hash": "ioun%20stone%2c%20reserve_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ioun Stone, Strength",
+			"hash": "ioun%20stone%2c%20strength_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ioun Stone, Sustenance",
+			"hash": "ioun%20stone%2c%20sustenance_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Iron Bands of Bilarro",
+			"hash": "iron%20bands%20of%20bilarro_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Iron Flask",
+			"hash": "iron%20flask_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Javelin of Lightning",
+			"hash": "javelin%20of%20lightning_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Keoghtom's Ointment",
+			"hash": "keoghtom's%20ointment_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Lantern of Revealing",
+			"hash": "lantern%20of%20revealing_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Mace of Disruption",
+			"hash": "mace%20of%20disruption_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Mace of Smiting",
+			"hash": "mace%20of%20smiting_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Mace of Terror",
+			"hash": "mace%20of%20terror_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Mantle of Spell Resistance",
+			"hash": "mantle%20of%20spell%20resistance_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Manual of Bodily Health",
+			"hash": "manual%20of%20bodily%20health_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Manual of Clay Golems",
+			"hash": "manual%20of%20clay%20golems_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Manual of Flesh Golems",
+			"hash": "manual%20of%20flesh%20golems_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Manual of Gainful Exercise",
+			"hash": "manual%20of%20gainful%20exercise_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Manual of Iron Golems",
+			"hash": "manual%20of%20iron%20golems_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Manual of Quickness of Action",
+			"hash": "manual%20of%20quickness%20of%20action_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Manual of Stone Golems",
+			"hash": "manual%20of%20stone%20golems_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Medallion of Thoughts",
+			"hash": "medallion%20of%20thoughts_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Mirror of Life Trapping",
+			"hash": "mirror%20of%20life%20trapping_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Moonblade",
+			"hash": "moonblade_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Necklace of Adaptation",
+			"hash": "necklace%20of%20adaptation_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Necklace of Fireballs",
+			"hash": "necklace%20of%20fireballs_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Necklace of Prayer Beads",
+			"hash": "necklace%20of%20prayer%20beads_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Nolzur's Marvelous Pigments",
+			"hash": "nolzur's%20marvelous%20pigments_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Oathbow",
+			"hash": "oathbow_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Oil of Etherealness",
+			"hash": "oil%20of%20etherealness_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Oil of Sharpness",
+			"hash": "oil%20of%20sharpness_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Oil of Slipperiness",
+			"hash": "oil%20of%20slipperiness_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Orb of Dragonkind",
+			"hash": "orb%20of%20dragonkind_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Pearl of Power",
+			"hash": "pearl%20of%20power_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Periapt of Health",
+			"hash": "periapt%20of%20health_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Periapt of Proof against Poison",
+			"hash": "periapt%20of%20proof%20against%20poison_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Periapt of Wound Closure",
+			"hash": "periapt%20of%20wound%20closure_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Philter of Love",
+			"hash": "philter%20of%20love_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Pipes of Haunting",
+			"hash": "pipes%20of%20haunting_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Pipes of the Sewers",
+			"hash": "pipes%20of%20the%20sewers_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Plate Armor of Etherealness",
+			"hash": "plate%20armor%20of%20etherealness_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Portable Hole",
+			"hash": "portable%20hole_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Acid Resistance",
+			"hash": "potion%20of%20acid%20resistance_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Animal Friendship",
+			"hash": "potion%20of%20animal%20friendship_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Clairvoyance",
+			"hash": "potion%20of%20clairvoyance_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Climbing",
+			"hash": "potion%20of%20climbing_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Cloud Giant Strength",
+			"hash": "potion%20of%20cloud%20giant%20strength_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Cold Resistance",
+			"hash": "potion%20of%20cold%20resistance_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Diminution",
+			"hash": "potion%20of%20diminution_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Fire Breath",
+			"hash": "potion%20of%20fire%20breath_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Fire Giant Strength",
+			"hash": "potion%20of%20fire%20giant%20strength_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Fire Resistance",
+			"hash": "potion%20of%20fire%20resistance_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Flying",
+			"hash": "potion%20of%20flying_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Force Resistance",
+			"hash": "potion%20of%20force%20resistance_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Frost Giant Strength",
+			"hash": "potion%20of%20frost%20giant%20strength_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Gaseous Form",
+			"hash": "potion%20of%20gaseous%20form_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Greater Healing",
+			"hash": "potion%20of%20greater%20healing_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Growth",
+			"hash": "potion%20of%20growth_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Heroism",
+			"hash": "potion%20of%20heroism_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Hill Giant Strength",
+			"hash": "potion%20of%20hill%20giant%20strength_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Invisibility",
+			"hash": "potion%20of%20invisibility_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Invulnerability",
+			"hash": "potion%20of%20invulnerability_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Lightning Resistance",
+			"hash": "potion%20of%20lightning%20resistance_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Longevity",
+			"hash": "potion%20of%20longevity_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Mind Reading",
+			"hash": "potion%20of%20mind%20reading_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Necrotic Resistance",
+			"hash": "potion%20of%20necrotic%20resistance_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Poison",
+			"hash": "potion%20of%20poison_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Poison Resistance",
+			"hash": "potion%20of%20poison%20resistance_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Psychic Resistance",
+			"hash": "potion%20of%20psychic%20resistance_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Radiant Resistance",
+			"hash": "potion%20of%20radiant%20resistance_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Speed",
+			"hash": "potion%20of%20speed_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Stone Giant Strength",
+			"hash": "potion%20of%20stone%20giant%20strength_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Storm Giant Strength",
+			"hash": "potion%20of%20storm%20giant%20strength_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Superior Healing",
+			"hash": "potion%20of%20superior%20healing_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Supreme Healing",
+			"hash": "potion%20of%20supreme%20healing_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Thunder Resistance",
+			"hash": "potion%20of%20thunder%20resistance_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Vitality",
+			"hash": "potion%20of%20vitality_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Water Breathing",
+			"hash": "potion%20of%20water%20breathing_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Quaal's Feather Token, Anchor",
+			"hash": "quaal's%20feather%20token%2c%20anchor_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Quaal's Feather Token, Bird",
+			"hash": "quaal's%20feather%20token%2c%20bird_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Quaal's Feather Token, Fan",
+			"hash": "quaal's%20feather%20token%2c%20fan_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Quaal's Feather Token, Swan Boat",
+			"hash": "quaal's%20feather%20token%2c%20swan%20boat_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Quaal's Feather Token, Tree",
+			"hash": "quaal's%20feather%20token%2c%20tree_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Quaal's Feather Token, Whip",
+			"hash": "quaal's%20feather%20token%2c%20whip_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Quiver of Ehlonna",
+			"hash": "quiver%20of%20ehlonna_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Red Dragon Scale Mail",
+			"hash": "red%20dragon%20scale%20mail_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ring of Acid Resistance",
+			"hash": "ring%20of%20acid%20resistance_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ring of Air Elemental Command",
+			"hash": "ring%20of%20air%20elemental%20command_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ring of Animal Influence",
+			"hash": "ring%20of%20animal%20influence_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ring of Cold Resistance",
+			"hash": "ring%20of%20cold%20resistance_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ring of Djinni Summoning",
+			"hash": "ring%20of%20djinni%20summoning_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ring of Earth Elemental Command",
+			"hash": "ring%20of%20earth%20elemental%20command_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ring of Evasion",
+			"hash": "ring%20of%20evasion_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ring of Feather Falling",
+			"hash": "ring%20of%20feather%20falling_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ring of Fire Elemental Command",
+			"hash": "ring%20of%20fire%20elemental%20command_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ring of Fire Resistance",
+			"hash": "ring%20of%20fire%20resistance_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ring of Force Resistance",
+			"hash": "ring%20of%20force%20resistance_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ring of Free Action",
+			"hash": "ring%20of%20free%20action_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ring of Invisibility",
+			"hash": "ring%20of%20invisibility_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ring of Jumping",
+			"hash": "ring%20of%20jumping_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ring of Lightning Resistance",
+			"hash": "ring%20of%20lightning%20resistance_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ring of Mind Shielding",
+			"hash": "ring%20of%20mind%20shielding_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ring of Necrotic Resistance",
+			"hash": "ring%20of%20necrotic%20resistance_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ring of Poison Resistance",
+			"hash": "ring%20of%20poison%20resistance_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ring of Protection",
+			"hash": "ring%20of%20protection_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ring of Psychic Resistance",
+			"hash": "ring%20of%20psychic%20resistance_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ring of Radiant Resistance",
+			"hash": "ring%20of%20radiant%20resistance_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ring of Regeneration",
+			"hash": "ring%20of%20regeneration_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ring of Shooting Stars",
+			"hash": "ring%20of%20shooting%20stars_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ring of Spell Storing",
+			"hash": "ring%20of%20spell%20storing_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ring of Spell Turning",
+			"hash": "ring%20of%20spell%20turning_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ring of Swimming",
+			"hash": "ring%20of%20swimming_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ring of Telekinesis",
+			"hash": "ring%20of%20telekinesis_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ring of Three Wishes",
+			"hash": "ring%20of%20three%20wishes_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ring of Thunder Resistance",
+			"hash": "ring%20of%20thunder%20resistance_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ring of Warmth",
+			"hash": "ring%20of%20warmth_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ring of Water Elemental Command",
+			"hash": "ring%20of%20water%20elemental%20command_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ring of Water Walking",
+			"hash": "ring%20of%20water%20walking_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ring of X-ray Vision",
+			"hash": "ring%20of%20x-ray%20vision_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ring of the Ram",
+			"hash": "ring%20of%20the%20ram_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Robe of Eyes",
+			"hash": "robe%20of%20eyes_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Robe of Scintillating Colors",
+			"hash": "robe%20of%20scintillating%20colors_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Robe of Stars",
+			"hash": "robe%20of%20stars_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Robe of Useful Items",
+			"hash": "robe%20of%20useful%20items_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Robe of the Archmagi",
+			"hash": "robe%20of%20the%20archmagi_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Rod of Absorption",
+			"hash": "rod%20of%20absorption_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Rod of Alertness",
+			"hash": "rod%20of%20alertness_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Rod of Lordly Might",
+			"hash": "rod%20of%20lordly%20might_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Rod of Resurrection",
+			"hash": "rod%20of%20resurrection_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Rod of Rulership",
+			"hash": "rod%20of%20rulership_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Rod of Security",
+			"hash": "rod%20of%20security_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Rope of Climbing",
+			"hash": "rope%20of%20climbing_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Rope of Entanglement",
+			"hash": "rope%20of%20entanglement_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Saddle of the Cavalier",
+			"hash": "saddle%20of%20the%20cavalier_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Scarab of Protection",
+			"hash": "scarab%20of%20protection_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Scimitar of Speed",
+			"hash": "scimitar%20of%20speed_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Scroll of Protection from Aberrations",
+			"hash": "scroll%20of%20protection%20from%20aberrations_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Scroll of Protection from Beasts",
+			"hash": "scroll%20of%20protection%20from%20beasts_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Scroll of Protection from Celestials",
+			"hash": "scroll%20of%20protection%20from%20celestials_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Scroll of Protection from Elementals",
+			"hash": "scroll%20of%20protection%20from%20elementals_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Scroll of Protection from Fey",
+			"hash": "scroll%20of%20protection%20from%20fey_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Scroll of Protection from Fiends",
+			"hash": "scroll%20of%20protection%20from%20fiends_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Scroll of Protection from Plants",
+			"hash": "scroll%20of%20protection%20from%20plants_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Scroll of Protection from Undead",
+			"hash": "scroll%20of%20protection%20from%20undead_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Sending Stones",
+			"hash": "sending%20stones_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Sentinel Shield",
+			"hash": "sentinel%20shield_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Shield of Missile Attraction",
+			"hash": "shield%20of%20missile%20attraction_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Silver Dragon Scale Mail",
+			"hash": "silver%20dragon%20scale%20mail_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Slippers of Spider Climbing",
+			"hash": "slippers%20of%20spider%20climbing_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Smoke Grenade",
+			"hash": "smoke%20grenade_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Sovereign Glue",
+			"hash": "sovereign%20glue_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Spell Scroll (1st Level)",
+			"hash": "spell%20scroll%20(1st%20level)_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Spell Scroll (2nd Level)",
+			"hash": "spell%20scroll%20(2nd%20level)_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Spell Scroll (3rd Level)",
+			"hash": "spell%20scroll%20(3rd%20level)_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Spell Scroll (4th Level)",
+			"hash": "spell%20scroll%20(4th%20level)_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Spell Scroll (5th Level)",
+			"hash": "spell%20scroll%20(5th%20level)_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Spell Scroll (6th Level)",
+			"hash": "spell%20scroll%20(6th%20level)_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Spell Scroll (7th Level)",
+			"hash": "spell%20scroll%20(7th%20level)_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Spell Scroll (8th Level)",
+			"hash": "spell%20scroll%20(8th%20level)_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Spell Scroll (9th Level)",
+			"hash": "spell%20scroll%20(9th%20level)_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Spell Scroll (Cantrip)",
+			"hash": "spell%20scroll%20(cantrip)_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Spellguard Shield",
+			"hash": "spellguard%20shield_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Sphere of Annihilation",
+			"hash": "sphere%20of%20annihilation_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Staff of Charming",
+			"hash": "staff%20of%20charming_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Staff of Fire",
+			"hash": "staff%20of%20fire_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Staff of Frost",
+			"hash": "staff%20of%20frost_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Staff of Healing",
+			"hash": "staff%20of%20healing_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Staff of Power",
+			"hash": "staff%20of%20power_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Staff of Striking",
+			"hash": "staff%20of%20striking_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Staff of Swarming Insects",
+			"hash": "staff%20of%20swarming%20insects_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Staff of Thunder and Lightning",
+			"hash": "staff%20of%20thunder%20and%20lightning_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Staff of Withering",
+			"hash": "staff%20of%20withering_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Staff of the Adder",
+			"hash": "staff%20of%20the%20adder_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Staff of the Magi",
+			"hash": "staff%20of%20the%20magi_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Staff of the Python",
+			"hash": "staff%20of%20the%20python_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Staff of the Woodlands",
+			"hash": "staff%20of%20the%20woodlands_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Stone of Controlling Earth Elementals",
+			"hash": "stone%20of%20controlling%20earth%20elementals_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Stone of Good Luck",
+			"hash": "stone%20of%20good%20luck_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Sun Blade",
+			"hash": "sun%20blade_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Sword of Answering (Answerer)",
+			"hash": "sword%20of%20answering%20(answerer)_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Sword of Answering (Back Talker)",
+			"hash": "sword%20of%20answering%20(back%20talker)_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Sword of Answering (Concluder)",
+			"hash": "sword%20of%20answering%20(concluder)_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Sword of Answering (Last Quip)",
+			"hash": "sword%20of%20answering%20(last%20quip)_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Sword of Answering (Rebutter)",
+			"hash": "sword%20of%20answering%20(rebutter)_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Sword of Answering (Replier)",
+			"hash": "sword%20of%20answering%20(replier)_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Sword of Answering (Retorter)",
+			"hash": "sword%20of%20answering%20(retorter)_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Sword of Answering (Scather)",
+			"hash": "sword%20of%20answering%20(scather)_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Sword of Answering (Squelcher)",
+			"hash": "sword%20of%20answering%20(squelcher)_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Sword of Kas",
+			"hash": "sword%20of%20kas_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Talisman of Pure Good",
+			"hash": "talisman%20of%20pure%20good_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Talisman of Ultimate Evil",
+			"hash": "talisman%20of%20ultimate%20evil_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Talisman of the Sphere",
+			"hash": "talisman%20of%20the%20sphere_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Tentacle Rod",
+			"hash": "tentacle%20rod_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Tome of Clear Thought",
+			"hash": "tome%20of%20clear%20thought_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Tome of Leadership and Influence",
+			"hash": "tome%20of%20leadership%20and%20influence_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Tome of Understanding",
+			"hash": "tome%20of%20understanding_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Tome of the Stilled Tongue",
+			"hash": "tome%20of%20the%20stilled%20tongue_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Trident of Fish Command",
+			"hash": "trident%20of%20fish%20command_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Universal Solvent",
+			"hash": "universal%20solvent_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Wand of Binding",
+			"hash": "wand%20of%20binding_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Wand of Enemy Detection",
+			"hash": "wand%20of%20enemy%20detection_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Wand of Fear",
+			"hash": "wand%20of%20fear_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Wand of Fireballs",
+			"hash": "wand%20of%20fireballs_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Wand of Lightning Bolts",
+			"hash": "wand%20of%20lightning%20bolts_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Wand of Magic Detection",
+			"hash": "wand%20of%20magic%20detection_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Wand of Magic Missiles",
+			"hash": "wand%20of%20magic%20missiles_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Wand of Orcus",
+			"hash": "wand%20of%20orcus_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Wand of Paralysis",
+			"hash": "wand%20of%20paralysis_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Wand of Polymorph",
+			"hash": "wand%20of%20polymorph_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Wand of Secrets",
+			"hash": "wand%20of%20secrets_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Wand of Web",
+			"hash": "wand%20of%20web_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Wand of Wonder",
+			"hash": "wand%20of%20wonder_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Wave",
+			"hash": "wave_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Well of Many Worlds",
+			"hash": "well%20of%20many%20worlds_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Whelm",
+			"hash": "whelm_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "White Dragon Scale Mail",
+			"hash": "white%20dragon%20scale%20mail_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Wind Fan",
+			"hash": "wind%20fan_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Winged Boots",
+			"hash": "winged%20boots_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Wings of Flying",
+			"hash": "wings%20of%20flying_dmg",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Armor of Resistance",
+			"hash": "armor%20of%20resistance_dmg",
+			"category": "itemGroup",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Armor of Vulnerability",
+			"hash": "armor%20of%20vulnerability_dmg",
+			"category": "itemGroup",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Bag of Tricks",
+			"hash": "bag%20of%20tricks_dmg",
+			"category": "itemGroup",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Belt of Giant Strength",
+			"hash": "belt%20of%20giant%20strength_dmg",
+			"category": "itemGroup",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Carpet of Flying",
+			"hash": "carpet%20of%20flying_dmg",
+			"category": "itemGroup",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Crystal Ball (Legendary Version)",
+			"hash": "crystal%20ball%20(legendary%20version)_dmg",
+			"category": "itemGroup",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Dragon Scale Mail",
+			"hash": "dragon%20scale%20mail_dmg",
+			"category": "itemGroup",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Elemental Gem",
+			"hash": "elemental%20gem_dmg",
+			"category": "itemGroup",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Figurine of Wondrous Power",
+			"hash": "figurine%20of%20wondrous%20power_dmg",
+			"category": "itemGroup",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Horn of Valhalla",
+			"hash": "horn%20of%20valhalla_dmg",
+			"category": "itemGroup",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Instrument of the Bards",
+			"hash": "instrument%20of%20the%20bards_dmg",
+			"category": "itemGroup",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ioun Stone",
+			"hash": "ioun%20stone_dmg",
+			"category": "itemGroup",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ioun Stone",
+			"hash": "ioun%20stone_dmg",
+			"category": "itemGroup",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Manual of Golems",
+			"hash": "manual%20of%20golems_dmg",
+			"category": "itemGroup",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Giant Strength",
+			"hash": "potion%20of%20giant%20strength_dmg",
+			"category": "itemGroup",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Healing (*)",
+			"hash": "potion%20of%20healing%20(*)_dmg",
+			"category": "itemGroup",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Potion of Resistance",
+			"hash": "potion%20of%20resistance_dmg",
+			"category": "itemGroup",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Quaal's Feather Token",
+			"hash": "quaal's%20feather%20token_dmg",
+			"category": "itemGroup",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ring of Elemental Command",
+			"hash": "ring%20of%20elemental%20command_dmg",
+			"category": "itemGroup",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Ring of Resistance",
+			"hash": "ring%20of%20resistance_dmg",
+			"category": "itemGroup",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Scroll of Protection",
+			"hash": "scroll%20of%20protection_dmg",
+			"category": "itemGroup",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Spell Scroll",
+			"hash": "spell%20scroll_dmg",
+			"category": "itemGroup",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Sword of Answering",
+			"hash": "sword%20of%20answering_dmg",
+			"category": "itemGroup",
+			"source": "DMG"
+		},
+		{
+			"displayName": "+1 Ammunition",
+			"hash": "%2b1%20ammunition_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "+1 Armor",
+			"hash": "%2b1%20armor_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "+1 Shield (*)",
+			"hash": "%2b1%20shield%20(*)_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "+1 Weapon",
+			"hash": "%2b1%20weapon_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "+1 Weapon (no damage)",
+			"hash": "%2b1%20weapon%20(no%20damage)_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "+2 Ammunition",
+			"hash": "%2b2%20ammunition_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "+2 Armor",
+			"hash": "%2b2%20armor_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "+2 Shield (*)",
+			"hash": "%2b2%20shield%20(*)_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "+2 Weapon",
+			"hash": "%2b2%20weapon_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "+2 Weapon (no damage)",
+			"hash": "%2b2%20weapon%20(no%20damage)_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "+3 Ammunition",
+			"hash": "%2b3%20ammunition_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "+3 Armor",
+			"hash": "%2b3%20armor_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "+3 Shield (*)",
+			"hash": "%2b3%20shield%20(*)_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "+3 Weapon",
+			"hash": "%2b3%20weapon_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "+3 Weapon (no damage)",
+			"hash": "%2b3%20weapon%20(no%20damage)_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Adamantine Armor",
+			"hash": "adamantine%20armor_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Armor of Acid Resistance",
+			"hash": "armor%20of%20acid%20resistance_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Armor of Cold Resistance",
+			"hash": "armor%20of%20cold%20resistance_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Armor of Fire Resistance",
+			"hash": "armor%20of%20fire%20resistance_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Armor of Force Resistance",
+			"hash": "armor%20of%20force%20resistance_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Armor of Lightning Resistance",
+			"hash": "armor%20of%20lightning%20resistance_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Armor of Necrotic Resistance",
+			"hash": "armor%20of%20necrotic%20resistance_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Armor of Poison Resistance",
+			"hash": "armor%20of%20poison%20resistance_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Armor of Psychic Resistance",
+			"hash": "armor%20of%20psychic%20resistance_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Armor of Radiant Resistance",
+			"hash": "armor%20of%20radiant%20resistance_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Armor of Thunder Resistance",
+			"hash": "armor%20of%20thunder%20resistance_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Arrow of Slaying (*)",
+			"hash": "arrow%20of%20slaying%20(*)_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Berserker Axe",
+			"hash": "berserker%20axe_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Dancing Sword",
+			"hash": "dancing%20sword_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Defender",
+			"hash": "defender_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Dragon Slayer",
+			"hash": "dragon%20slayer_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Flame Tongue",
+			"hash": "flame%20tongue_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Frost Brand",
+			"hash": "frost%20brand_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Giant Slayer",
+			"hash": "giant%20slayer_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Holy Avenger",
+			"hash": "holy%20avenger_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Luck Blade",
+			"hash": "luck%20blade_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Mariner's Armor",
+			"hash": "mariner's%20armor_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Mithral Armor",
+			"hash": "mithral%20armor_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Nine Lives Stealer",
+			"hash": "nine%20lives%20stealer_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Sword of Life Stealing",
+			"hash": "sword%20of%20life%20stealing_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Sword of Sharpness",
+			"hash": "sword%20of%20sharpness_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Sword of Vengeance",
+			"hash": "sword%20of%20vengeance_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Sword of Wounding",
+			"hash": "sword%20of%20wounding_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Vicious Weapon",
+			"hash": "vicious%20weapon_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Vorpal Sword",
+			"hash": "vorpal%20sword_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Weapon of Warning",
+			"hash": "weapon%20of%20warning_dmg",
+			"category": "magicvariant",
+			"source": "DMG"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "DoD"
+		},
+		{
+			"displayName": "Trinket",
+			"hash": "trinket_eet",
+			"category": "item",
+			"source": "EET"
+		},
+		{
+			"displayName": "Amulet of the Drunkard",
+			"hash": "amulet%20of%20the%20drunkard_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Arcane Cannon",
+			"hash": "arcane%20cannon_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Battering Shield",
+			"hash": "battering%20shield_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Blasting Powder",
+			"hash": "blasting%20powder_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Bloodaxe",
+			"hash": "bloodaxe_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Breathing Bubble",
+			"hash": "breathing%20bubble_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Brooch of Living Essence",
+			"hash": "brooch%20of%20living%20essence_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Butcher's Bib",
+			"hash": "butcher's%20bib_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Coin of Delving",
+			"hash": "coin%20of%20delving_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Danoth's Visor (Awakened)",
+			"hash": "danoth's%20visor%20(awakened)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Danoth's Visor (Dormant)",
+			"hash": "danoth's%20visor%20(dormant)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Danoth's Visor (Exalted)",
+			"hash": "danoth's%20visor%20(exalted)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Dispelling Stone",
+			"hash": "dispelling%20stone_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Duskcrusher",
+			"hash": "duskcrusher_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Dust of Deliciousness",
+			"hash": "dust%20of%20deliciousness_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Explosive Seed",
+			"hash": "explosive%20seed_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Goggles of Object Reading",
+			"hash": "goggles%20of%20object%20reading_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Grimoire Infinitus (Awakened)",
+			"hash": "grimoire%20infinitus%20(awakened)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Grimoire Infinitus (Dormant)",
+			"hash": "grimoire%20infinitus%20(dormant)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Grimoire Infinitus (Exalted)",
+			"hash": "grimoire%20infinitus%20(exalted)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Grovelthrash (Awakened)",
+			"hash": "grovelthrash%20(awakened)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Grovelthrash (Dormant)",
+			"hash": "grovelthrash%20(dormant)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Grovelthrash (Exalted)",
+			"hash": "grovelthrash%20(exalted)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Hide of the Feral Guardian (Awakened)",
+			"hash": "hide%20of%20the%20feral%20guardian%20(awakened)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Hide of the Feral Guardian (Dormant)",
+			"hash": "hide%20of%20the%20feral%20guardian%20(dormant)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Hide of the Feral Guardian (Exalted)",
+			"hash": "hide%20of%20the%20feral%20guardian%20(exalted)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Hunter's Coat",
+			"hash": "hunter's%20coat_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Infiltrator's Key (Awakened)",
+			"hash": "infiltrator's%20key%20(awakened)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Infiltrator's Key (Dormant)",
+			"hash": "infiltrator's%20key%20(dormant)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Infiltrator's Key (Exalted)",
+			"hash": "infiltrator's%20key%20(exalted)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Lash of Shadows (Awakened)",
+			"hash": "lash%20of%20shadows%20(awakened)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Lash of Shadows (Dormant)",
+			"hash": "lash%20of%20shadows%20(dormant)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Lash of Shadows (Exalted)",
+			"hash": "lash%20of%20shadows%20(exalted)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Luxon Beacon",
+			"hash": "luxon%20beacon_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Mace of the Black Crown (Awakened)",
+			"hash": "mace%20of%20the%20black%20crown%20(awakened)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Mace of the Black Crown (Dormant)",
+			"hash": "mace%20of%20the%20black%20crown%20(dormant)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Mace of the Black Crown (Exalted)",
+			"hash": "mace%20of%20the%20black%20crown%20(exalted)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Needle of Mending",
+			"hash": "needle%20of%20mending_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Nightfall Pearl",
+			"hash": "nightfall%20pearl_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Orb of the Veil",
+			"hash": "orb%20of%20the%20veil_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Potion of Maximum Power",
+			"hash": "potion%20of%20maximum%20power_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Potion of Possibility",
+			"hash": "potion%20of%20possibility_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Reincarnation Dust",
+			"hash": "reincarnation%20dust_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Ring of Obscuring",
+			"hash": "ring%20of%20obscuring_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Ring of Temporal Salvation",
+			"hash": "ring%20of%20temporal%20salvation_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Rod of Retribution",
+			"hash": "rod%20of%20retribution_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Ruin's Wake (Awakened)",
+			"hash": "ruin's%20wake%20(awakened)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Ruin's Wake (Dormant)",
+			"hash": "ruin's%20wake%20(dormant)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Ruin's Wake (Exalted)",
+			"hash": "ruin's%20wake%20(exalted)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Silken Spite (Awakened)",
+			"hash": "silken%20spite%20(awakened)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Silken Spite (Dormant)",
+			"hash": "silken%20spite%20(dormant)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Silken Spite (Exalted)",
+			"hash": "silken%20spite%20(exalted)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Spell Bottle",
+			"hash": "spell%20bottle_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Staff of Dunamancy",
+			"hash": "staff%20of%20dunamancy_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Staff of the Ivory Claw",
+			"hash": "staff%20of%20the%20ivory%20claw_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Stormgirdle (Awakened)",
+			"hash": "stormgirdle%20(awakened)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Stormgirdle (Dormant)",
+			"hash": "stormgirdle%20(dormant)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Stormgirdle (Exalted)",
+			"hash": "stormgirdle%20(exalted)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "The Bloody End (Awakened)",
+			"hash": "the%20bloody%20end%20(awakened)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "The Bloody End (Dormant)",
+			"hash": "the%20bloody%20end%20(dormant)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "The Bloody End (Exalted)",
+			"hash": "the%20bloody%20end%20(exalted)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Verminshroud (Awakened)",
+			"hash": "verminshroud%20(awakened)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Verminshroud (Dormant)",
+			"hash": "verminshroud%20(dormant)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Verminshroud (Exalted)",
+			"hash": "verminshroud%20(exalted)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Vox Seeker",
+			"hash": "vox%20seeker_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Will of the Talon (Awakened)",
+			"hash": "will%20of%20the%20talon%20(awakened)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Will of the Talon (Dormant)",
+			"hash": "will%20of%20the%20talon%20(dormant)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Will of the Talon (Exalted)",
+			"hash": "will%20of%20the%20talon%20(exalted)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Wreath of the Prism (Awakened)",
+			"hash": "wreath%20of%20the%20prism%20(awakened)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Wreath of the Prism (Dormant)",
+			"hash": "wreath%20of%20the%20prism%20(dormant)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Wreath of the Prism (Exalted)",
+			"hash": "wreath%20of%20the%20prism%20(exalted)_egw",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Danoth's Visor",
+			"hash": "danoth's%20visor_egw",
+			"category": "itemGroup",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Grimoire Infinitus",
+			"hash": "grimoire%20infinitus_egw",
+			"category": "itemGroup",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Grovelthrash",
+			"hash": "grovelthrash_egw",
+			"category": "itemGroup",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Hide of the Feral Guardian",
+			"hash": "hide%20of%20the%20feral%20guardian_egw",
+			"category": "itemGroup",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Infiltrator's Key",
+			"hash": "infiltrator's%20key_egw",
+			"category": "itemGroup",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Lash of Shadows",
+			"hash": "lash%20of%20shadows_egw",
+			"category": "itemGroup",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Mace of the Black Crown",
+			"hash": "mace%20of%20the%20black%20crown_egw",
+			"category": "itemGroup",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Ruin's Wake",
+			"hash": "ruin's%20wake_egw",
+			"category": "itemGroup",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Silken Spite",
+			"hash": "silken%20spite_egw",
+			"category": "itemGroup",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Stormgirdle",
+			"hash": "stormgirdle_egw",
+			"category": "itemGroup",
+			"source": "EGW"
+		},
+		{
+			"displayName": "The Bloody End",
+			"hash": "the%20bloody%20end_egw",
+			"category": "itemGroup",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Verminshroud",
+			"hash": "verminshroud_egw",
+			"category": "itemGroup",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Will of the Talon",
+			"hash": "will%20of%20the%20talon_egw",
+			"category": "itemGroup",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Wreath of the Prism",
+			"hash": "wreath%20of%20the%20prism_egw",
+			"category": "itemGroup",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Acheron Blade",
+			"hash": "acheron%20blade_egw",
+			"category": "magicvariant",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Blade of Broken Mirrors",
+			"hash": "blade%20of%20broken%20mirrors_egw",
+			"category": "magicvariant",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Corpse Slayer",
+			"hash": "corpse%20slayer_egw",
+			"category": "magicvariant",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Last Stand Armor",
+			"hash": "last%20stand%20armor_egw",
+			"category": "magicvariant",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Weapon of Certain Death",
+			"hash": "weapon%20of%20certain%20death_egw",
+			"category": "magicvariant",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Double-Bladed Scimitar",
+			"hash": "double-bladed%20scimitar_erlw",
+			"category": "baseitem",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Arcane Propulsion Arm",
+			"hash": "arcane%20propulsion%20arm_erlw",
+			"category": "item",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Belashyrra's Beholder Crown",
+			"hash": "belashyrra's%20beholder%20crown_erlw",
+			"category": "item",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Cleansing Stone",
+			"hash": "cleansing%20stone_erlw",
+			"category": "item",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Common Glamerweave",
+			"hash": "common%20glamerweave_erlw",
+			"category": "item",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Docent",
+			"hash": "docent_erlw",
+			"category": "item",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Dragon's Blood",
+			"hash": "dragon's%20blood_erlw",
+			"category": "item",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Dreamlily",
+			"hash": "dreamlily_erlw",
+			"category": "item",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Dyrrn's Tentacle Whip",
+			"hash": "dyrrn's%20tentacle%20whip_erlw",
+			"category": "item",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Earworm",
+			"hash": "earworm_erlw",
+			"category": "item",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Everbright Lantern",
+			"hash": "everbright%20lantern_erlw",
+			"category": "item",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Feather Token",
+			"hash": "feather%20token_erlw",
+			"category": "item",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Finder's Goggles",
+			"hash": "finder's%20goggles_erlw",
+			"category": "item",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Keycharm",
+			"hash": "keycharm_erlw",
+			"category": "item",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Kyrzin's Ooze",
+			"hash": "kyrzin's%20ooze_erlw",
+			"category": "item",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Living Gloves",
+			"hash": "living%20gloves_erlw",
+			"category": "item",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Scribe's Pen",
+			"hash": "scribe's%20pen_erlw",
+			"category": "item",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Shiftweave",
+			"hash": "shiftweave_erlw",
+			"category": "item",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Speaking Stone",
+			"hash": "speaking%20stone_erlw",
+			"category": "item",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Spellshard",
+			"hash": "spellshard_erlw",
+			"category": "item",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Uncommon Glamerweave",
+			"hash": "uncommon%20glamerweave_erlw",
+			"category": "item",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Ventilating Lungs",
+			"hash": "ventilating%20lungs_erlw",
+			"category": "item",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Wand Sheath",
+			"hash": "wand%20sheath_erlw",
+			"category": "item",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Wheel of Wind and Water",
+			"hash": "wheel%20of%20wind%20and%20water_erlw",
+			"category": "item",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Glamerweave",
+			"hash": "glamerweave_erlw",
+			"category": "itemGroup",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Imbued Wood Focus",
+			"hash": "imbued%20wood%20focus_erlw",
+			"category": "itemGroup",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Orb of Shielding",
+			"hash": "orb%20of%20shielding_erlw",
+			"category": "itemGroup",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Armblade",
+			"hash": "armblade_erlw",
+			"category": "magicvariant",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Imbued Wood (Fernian Ash)",
+			"hash": "imbued%20wood%20(fernian%20ash)_erlw",
+			"category": "magicvariant",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Imbued Wood (Irian Rosewood)",
+			"hash": "imbued%20wood%20(irian%20rosewood)_erlw",
+			"category": "magicvariant",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Imbued Wood (Kythrian Manchineel)",
+			"hash": "imbued%20wood%20(kythrian%20manchineel)_erlw",
+			"category": "magicvariant",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Imbued Wood (Lamannian Oak)",
+			"hash": "imbued%20wood%20(lamannian%20oak)_erlw",
+			"category": "magicvariant",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Imbued Wood (Mabaran Ebony)",
+			"hash": "imbued%20wood%20(mabaran%20ebony)_erlw",
+			"category": "magicvariant",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Imbued Wood (Risian Pine)",
+			"hash": "imbued%20wood%20(risian%20pine)_erlw",
+			"category": "magicvariant",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Imbued Wood (Shavarran Birch)",
+			"hash": "imbued%20wood%20(shavarran%20birch)_erlw",
+			"category": "magicvariant",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Imbued Wood (Xorian Wenge)",
+			"hash": "imbued%20wood%20(xorian%20wenge)_erlw",
+			"category": "magicvariant",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Living Armor",
+			"hash": "living%20armor_erlw",
+			"category": "magicvariant",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Orb of Shielding (Fernian Basalt)",
+			"hash": "orb%20of%20shielding%20(fernian%20basalt)_erlw",
+			"category": "magicvariant",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Orb of Shielding (Irian Quartz)",
+			"hash": "orb%20of%20shielding%20(irian%20quartz)_erlw",
+			"category": "magicvariant",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Orb of Shielding (Kythrian Skarn)",
+			"hash": "orb%20of%20shielding%20(kythrian%20skarn)_erlw",
+			"category": "magicvariant",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Orb of Shielding (Lamannian Flint)",
+			"hash": "orb%20of%20shielding%20(lamannian%20flint)_erlw",
+			"category": "magicvariant",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Orb of Shielding (Mabaran Obsidian)",
+			"hash": "orb%20of%20shielding%20(mabaran%20obsidian)_erlw",
+			"category": "magicvariant",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Orb of Shielding (Risian Shale)",
+			"hash": "orb%20of%20shielding%20(risian%20shale)_erlw",
+			"category": "magicvariant",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Orb of Shielding (Shavarran Chert)",
+			"hash": "orb%20of%20shielding%20(shavarran%20chert)_erlw",
+			"category": "magicvariant",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Orb of Shielding (Xorian Marble)",
+			"hash": "orb%20of%20shielding%20(xorian%20marble)_erlw",
+			"category": "magicvariant",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "+1 Dragonhide Belt",
+			"hash": "%2b1%20dragonhide%20belt_ftd",
+			"category": "item",
+			"source": "FTD"
+		},
+		{
+			"displayName": "+2 Dragonhide Belt",
+			"hash": "%2b2%20dragonhide%20belt_ftd",
+			"category": "item",
+			"source": "FTD"
+		},
+		{
+			"displayName": "+3 Dragonhide Belt",
+			"hash": "%2b3%20dragonhide%20belt_ftd",
+			"category": "item",
+			"source": "FTD"
+		},
+		{
+			"displayName": "Amethyst Lodestone",
+			"hash": "amethyst%20lodestone_ftd",
+			"category": "item",
+			"source": "FTD"
+		},
+		{
+			"displayName": "Ascendant Dragon Vessel",
+			"hash": "ascendant%20dragon%20vessel_ftd",
+			"category": "item",
+			"source": "FTD"
+		},
+		{
+			"displayName": "Ascendant Dragon-Touched Focus",
+			"hash": "ascendant%20dragon-touched%20focus_ftd",
+			"category": "item",
+			"source": "FTD"
+		},
+		{
+			"displayName": "Ascendant Scaled Ornament",
+			"hash": "ascendant%20scaled%20ornament_ftd",
+			"category": "item",
+			"source": "FTD"
+		},
+		{
+			"displayName": "Emerald Pen",
+			"hash": "emerald%20pen_ftd",
+			"category": "item",
+			"source": "FTD"
+		},
+		{
+			"displayName": "Flail of Tiamat",
+			"hash": "flail%20of%20tiamat_ftd",
+			"category": "item",
+			"source": "FTD"
+		},
+		{
+			"displayName": "Gold Canary Figurine of Wondrous Power",
+			"hash": "gold%20canary%20figurine%20of%20wondrous%20power_ftd",
+			"category": "item",
+			"source": "FTD"
+		},
+		{
+			"displayName": "Platinum Scarf",
+			"hash": "platinum%20scarf_ftd",
+			"category": "item",
+			"source": "FTD"
+		},
+		{
+			"displayName": "Potion of Dragon's Majesty",
+			"hash": "potion%20of%20dragon's%20majesty_ftd",
+			"category": "item",
+			"source": "FTD"
+		},
+		{
+			"displayName": "Ruby Weave Gem",
+			"hash": "ruby%20weave%20gem_ftd",
+			"category": "item",
+			"source": "FTD"
+		},
+		{
+			"displayName": "Sapphire Buckler",
+			"hash": "sapphire%20buckler_ftd",
+			"category": "item",
+			"source": "FTD"
+		},
+		{
+			"displayName": "Slumbering Dragon Vessel",
+			"hash": "slumbering%20dragon%20vessel_ftd",
+			"category": "item",
+			"source": "FTD"
+		},
+		{
+			"displayName": "Slumbering Dragon-Touched Focus",
+			"hash": "slumbering%20dragon-touched%20focus_ftd",
+			"category": "item",
+			"source": "FTD"
+		},
+		{
+			"displayName": "Slumbering Scaled Ornament",
+			"hash": "slumbering%20scaled%20ornament_ftd",
+			"category": "item",
+			"source": "FTD"
+		},
+		{
+			"displayName": "Stirring Dragon Vessel",
+			"hash": "stirring%20dragon%20vessel_ftd",
+			"category": "item",
+			"source": "FTD"
+		},
+		{
+			"displayName": "Stirring Dragon-Touched Focus",
+			"hash": "stirring%20dragon-touched%20focus_ftd",
+			"category": "item",
+			"source": "FTD"
+		},
+		{
+			"displayName": "Stirring Scaled Ornament",
+			"hash": "stirring%20scaled%20ornament_ftd",
+			"category": "item",
+			"source": "FTD"
+		},
+		{
+			"displayName": "Topaz Annihilator",
+			"hash": "topaz%20annihilator_ftd",
+			"category": "item",
+			"source": "FTD"
+		},
+		{
+			"displayName": "Wakened Dragon Vessel",
+			"hash": "wakened%20dragon%20vessel_ftd",
+			"category": "item",
+			"source": "FTD"
+		},
+		{
+			"displayName": "Wakened Dragon-Touched Focus",
+			"hash": "wakened%20dragon-touched%20focus_ftd",
+			"category": "item",
+			"source": "FTD"
+		},
+		{
+			"displayName": "Wakened Scaled Ornament",
+			"hash": "wakened%20scaled%20ornament_ftd",
+			"category": "item",
+			"source": "FTD"
+		},
+		{
+			"displayName": "Dragon Vessel",
+			"hash": "dragon%20vessel_ftd",
+			"category": "itemGroup",
+			"source": "FTD"
+		},
+		{
+			"displayName": "Dragon's Wrath Weapon",
+			"hash": "dragon's%20wrath%20weapon_ftd",
+			"category": "itemGroup",
+			"source": "FTD"
+		},
+		{
+			"displayName": "Dragon-Touched Focus",
+			"hash": "dragon-touched%20focus_ftd",
+			"category": "itemGroup",
+			"source": "FTD"
+		},
+		{
+			"displayName": "Scaled Ornament",
+			"hash": "scaled%20ornament_ftd",
+			"category": "itemGroup",
+			"source": "FTD"
+		},
+		{
+			"displayName": "Ascendant Dragon's Wrath Weapon",
+			"hash": "ascendant%20dragon's%20wrath%20weapon_ftd",
+			"category": "magicvariant",
+			"source": "FTD"
+		},
+		{
+			"displayName": "Crystal Blade",
+			"hash": "crystal%20blade_ftd",
+			"category": "magicvariant",
+			"source": "FTD"
+		},
+		{
+			"displayName": "Dragon Wing Bow",
+			"hash": "dragon%20wing%20bow_ftd",
+			"category": "magicvariant",
+			"source": "FTD"
+		},
+		{
+			"displayName": "Dragonlance",
+			"hash": "dragonlance_ftd",
+			"category": "magicvariant",
+			"source": "FTD"
+		},
+		{
+			"displayName": "Slumbering Dragon's Wrath Weapon",
+			"hash": "slumbering%20dragon's%20wrath%20weapon_ftd",
+			"category": "magicvariant",
+			"source": "FTD"
+		},
+		{
+			"displayName": "Stirring Dragon's Wrath Weapon",
+			"hash": "stirring%20dragon's%20wrath%20weapon_ftd",
+			"category": "magicvariant",
+			"source": "FTD"
+		},
+		{
+			"displayName": "Wakened Dragon's Wrath Weapon",
+			"hash": "wakened%20dragon's%20wrath%20weapon_ftd",
+			"category": "magicvariant",
+			"source": "FTD"
+		},
+		{
+			"displayName": "Azorius Guild Signet",
+			"hash": "azorius%20guild%20signet_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Azorius Keyrune",
+			"hash": "azorius%20keyrune_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Boros Guild Signet",
+			"hash": "boros%20guild%20signet_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Boros Keyrune",
+			"hash": "boros%20keyrune_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Copper Alms-Coin",
+			"hash": "copper%20alms-coin_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Copper Zib",
+			"hash": "copper%20zib_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Dimir Guild Signet",
+			"hash": "dimir%20guild%20signet_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Dimir Keyrune",
+			"hash": "dimir%20keyrune_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Electrum 50-Zib Coin",
+			"hash": "electrum%2050-zib%20coin_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Gold 5-Zino Coin",
+			"hash": "gold%205-zino%20coin_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Gold Zino",
+			"hash": "gold%20zino_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Golgari Guild Signet",
+			"hash": "golgari%20guild%20signet_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Golgari Keyrune",
+			"hash": "golgari%20keyrune_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Gruul Guild Signet",
+			"hash": "gruul%20guild%20signet_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Gruul Keyrune",
+			"hash": "gruul%20keyrune_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Illusionist's Bracers",
+			"hash": "illusionist's%20bracers_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Izzet Guild Signet",
+			"hash": "izzet%20guild%20signet_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Izzet Keyrune",
+			"hash": "izzet%20keyrune_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Mizzium Apparatus",
+			"hash": "mizzium%20apparatus_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Mizzium Mortar",
+			"hash": "mizzium%20mortar_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Moodmark Paint",
+			"hash": "moodmark%20paint_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Orzhov Guild Signet",
+			"hash": "orzhov%20guild%20signet_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Orzhov Keyrune",
+			"hash": "orzhov%20keyrune_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Pariah's Shield",
+			"hash": "pariah's%20shield_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Peregrine Mask",
+			"hash": "peregrine%20mask_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Platinum 10-Zino Coin",
+			"hash": "platinum%2010-zino%20coin_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Platinum 100-Zino Coin",
+			"hash": "platinum%20100-zino%20coin_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Pyroconverger",
+			"hash": "pyroconverger_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Rakdos Guild Signet",
+			"hash": "rakdos%20guild%20signet_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Rakdos Keyrune",
+			"hash": "rakdos%20keyrune_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Rakdos Riteknife",
+			"hash": "rakdos%20riteknife_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Selesnya Guild Signet",
+			"hash": "selesnya%20guild%20signet_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Selesnya Keyrune",
+			"hash": "selesnya%20keyrune_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Simic Guild Signet",
+			"hash": "simic%20guild%20signet_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Simic Keyrune",
+			"hash": "simic%20keyrune_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Skyblinder Staff",
+			"hash": "skyblinder%20staff_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Spies' Murmur",
+			"hash": "spies'%20murmur_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Sunforger",
+			"hash": "sunforger_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Sword of the Paruns",
+			"hash": "sword%20of%20the%20paruns_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Voyager Staff",
+			"hash": "voyager%20staff_ggr",
+			"category": "item",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Guild Keyrune",
+			"hash": "guild%20keyrune_ggr",
+			"category": "itemGroup",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Guild Signet",
+			"hash": "guild%20signet_ggr",
+			"category": "itemGroup",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Mizzium Armor",
+			"hash": "mizzium%20armor_ggr",
+			"category": "magicvariant",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Charm of Plant Command",
+			"hash": "charm%20of%20plant%20command_gos",
+			"category": "item",
+			"source": "GoS"
+		},
+		{
+			"displayName": "Cursed Luckstone",
+			"hash": "cursed%20luckstone_gos",
+			"category": "item",
+			"source": "GoS"
+		},
+		{
+			"displayName": "Helm of Underwater Action",
+			"hash": "helm%20of%20underwater%20action_gos",
+			"category": "item",
+			"source": "GoS"
+		},
+		{
+			"displayName": "Pipe of Remembrance",
+			"hash": "pipe%20of%20remembrance_gos",
+			"category": "item",
+			"source": "GoS"
+		},
+		{
+			"displayName": "Pressure Capsule",
+			"hash": "pressure%20capsule_gos",
+			"category": "item",
+			"source": "GoS"
+		},
+		{
+			"displayName": "Sekolahian Worshiping Statuette",
+			"hash": "sekolahian%20worshiping%20statuette_gos",
+			"category": "item",
+			"source": "GoS"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "HftT"
+		},
+		{
+			"displayName": "Black Dragon Mask",
+			"hash": "black%20dragon%20mask_hotdq",
+			"category": "item",
+			"source": "HotDQ"
+		},
+		{
+			"displayName": "Dragongleam",
+			"hash": "dragongleam_hotdq",
+			"category": "item",
+			"source": "HotDQ"
+		},
+		{
+			"displayName": "Hazirawn",
+			"hash": "hazirawn_hotdq",
+			"category": "item",
+			"source": "HotDQ"
+		},
+		{
+			"displayName": "Insignia of Claws",
+			"hash": "insignia%20of%20claws_hotdq",
+			"category": "item",
+			"source": "HotDQ"
+		},
+		{
+			"displayName": "Tankard of Plenty",
+			"hash": "tankard%20of%20plenty_hotdq",
+			"category": "item",
+			"source": "HotDQ"
+		},
+		{
+			"displayName": "Wand of Winter",
+			"hash": "wand%20of%20winter_hotdq",
+			"category": "item",
+			"source": "HotDQ"
+		},
+		{
+			"displayName": "Abracadabrus",
+			"hash": "abracadabrus_idrotf",
+			"category": "item",
+			"source": "IDRotF"
+		},
+		{
+			"displayName": "Cauldron of Plenty",
+			"hash": "cauldron%20of%20plenty_idrotf",
+			"category": "item",
+			"source": "IDRotF"
+		},
+		{
+			"displayName": "Hook of Fisher's Delight",
+			"hash": "hook%20of%20fisher's%20delight_idrotf",
+			"category": "item",
+			"source": "IDRotF"
+		},
+		{
+			"displayName": "Icewind Dale Trinket",
+			"hash": "icewind%20dale%20trinket_idrotf",
+			"category": "item",
+			"source": "IDRotF"
+		},
+		{
+			"displayName": "Iron Ball",
+			"hash": "iron%20ball_idrotf",
+			"category": "item",
+			"source": "IDRotF"
+		},
+		{
+			"displayName": "Lantern of Tracking",
+			"hash": "lantern%20of%20tracking_idrotf",
+			"category": "item",
+			"source": "IDRotF"
+		},
+		{
+			"displayName": "Orc Stone",
+			"hash": "orc%20stone_idrotf",
+			"category": "item",
+			"source": "IDRotF"
+		},
+		{
+			"displayName": "Professor Skant",
+			"hash": "professor%20skant_idrotf",
+			"category": "item",
+			"source": "IDRotF"
+		},
+		{
+			"displayName": "Psi Crystal",
+			"hash": "psi%20crystal_idrotf",
+			"category": "item",
+			"source": "IDRotF"
+		},
+		{
+			"displayName": "Scroll of Tarrasque Summoning",
+			"hash": "scroll%20of%20tarrasque%20summoning_idrotf",
+			"category": "item",
+			"source": "IDRotF"
+		},
+		{
+			"displayName": "Scroll of the Comet",
+			"hash": "scroll%20of%20the%20comet_idrotf",
+			"category": "item",
+			"source": "IDRotF"
+		},
+		{
+			"displayName": "Shield Guardian Amulet",
+			"hash": "shield%20guardian%20amulet_idrotf",
+			"category": "item",
+			"source": "IDRotF"
+		},
+		{
+			"displayName": "The Codicil of White",
+			"hash": "the%20codicil%20of%20white_idrotf",
+			"category": "item",
+			"source": "IDRotF"
+		},
+		{
+			"displayName": "The Incantations of Iriolarthas",
+			"hash": "the%20incantations%20of%20iriolarthas_idrotf",
+			"category": "item",
+			"source": "IDRotF"
+		},
+		{
+			"displayName": "Thermal Cube",
+			"hash": "thermal%20cube_idrotf",
+			"category": "item",
+			"source": "IDRotF"
+		},
+		{
+			"displayName": "Ythryn Mythallar",
+			"hash": "ythryn%20mythallar_idrotf",
+			"category": "item",
+			"source": "IDRotF"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "IMR"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "JttRC"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "LLK"
+		},
+		{
+			"displayName": "Blade of the Medusa",
+			"hash": "blade%20of%20the%20medusa_llk",
+			"category": "magicvariant",
+			"source": "LLK"
+		},
+		{
+			"displayName": "Polymorph Blade",
+			"hash": "polymorph%20blade_llk",
+			"category": "magicvariant",
+			"source": "LLK"
+		},
+		{
+			"displayName": "Dragonguard",
+			"hash": "dragonguard_lmop",
+			"category": "item",
+			"source": "LMoP"
+		},
+		{
+			"displayName": "Hew",
+			"hash": "hew_lmop",
+			"category": "item",
+			"source": "LMoP"
+		},
+		{
+			"displayName": "Lightbringer",
+			"hash": "lightbringer_lmop",
+			"category": "item",
+			"source": "LMoP"
+		},
+		{
+			"displayName": "Spider Staff",
+			"hash": "spider%20staff_lmop",
+			"category": "item",
+			"source": "LMoP"
+		},
+		{
+			"displayName": "Staff of Defense",
+			"hash": "staff%20of%20defense_lmop",
+			"category": "item",
+			"source": "LMoP"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "LR"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "MCV1SC"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "MFF"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "MGELFT"
+		},
+		{
+			"displayName": "Hag Eye",
+			"hash": "hag%20eye_mm",
+			"category": "item",
+			"source": "MM"
+		},
+		{
+			"displayName": "Heartstone",
+			"hash": "heartstone_mm",
+			"category": "item",
+			"source": "MM"
+		},
+		{
+			"displayName": "Master's Amulet",
+			"hash": "master's%20amulet_mm",
+			"category": "item",
+			"source": "MM"
+		},
+		{
+			"displayName": "Soul Bag",
+			"hash": "soul%20bag_mm",
+			"category": "item",
+			"source": "MM"
+		},
+		{
+			"displayName": "Drow +1 Armor",
+			"hash": "drow%20%2b1%20armor_mm",
+			"category": "magicvariant",
+			"source": "MM"
+		},
+		{
+			"displayName": "Drow +1 Weapon",
+			"hash": "drow%20%2b1%20weapon_mm",
+			"category": "magicvariant",
+			"source": "MM"
+		},
+		{
+			"displayName": "Drow +2 Armor",
+			"hash": "drow%20%2b2%20armor_mm",
+			"category": "magicvariant",
+			"source": "MM"
+		},
+		{
+			"displayName": "Drow +2 Weapon",
+			"hash": "drow%20%2b2%20weapon_mm",
+			"category": "magicvariant",
+			"source": "MM"
+		},
+		{
+			"displayName": "Drow +3 Armor",
+			"hash": "drow%20%2b3%20armor_mm",
+			"category": "magicvariant",
+			"source": "MM"
+		},
+		{
+			"displayName": "Drow +3 Weapon",
+			"hash": "drow%20%2b3%20weapon_mm",
+			"category": "magicvariant",
+			"source": "MM"
+		},
+		{
+			"displayName": "Akmon, Hammer of Purphoros",
+			"hash": "akmon%2c%20hammer%20of%20purphoros_mot",
+			"category": "item",
+			"source": "MOT"
+		},
+		{
+			"displayName": "Dekella, Bident of Thassa",
+			"hash": "dekella%2c%20bident%20of%20thassa_mot",
+			"category": "item",
+			"source": "MOT"
+		},
+		{
+			"displayName": "Ephixis, Bow of Nylea",
+			"hash": "ephixis%2c%20bow%20of%20nylea_mot",
+			"category": "item",
+			"source": "MOT"
+		},
+		{
+			"displayName": "Flying Chariot",
+			"hash": "flying%20chariot_mot",
+			"category": "item",
+			"source": "MOT"
+		},
+		{
+			"displayName": "Helm of the Gods",
+			"hash": "helm%20of%20the%20gods_mot",
+			"category": "item",
+			"source": "MOT"
+		},
+		{
+			"displayName": "Khrusor, Spear of Heliod",
+			"hash": "khrusor%2c%20spear%20of%20heliod_mot",
+			"category": "item",
+			"source": "MOT"
+		},
+		{
+			"displayName": "Mastix, Whip of Erebos",
+			"hash": "mastix%2c%20whip%20of%20erebos_mot",
+			"category": "item",
+			"source": "MOT"
+		},
+		{
+			"displayName": "Potion of Aqueous Form",
+			"hash": "potion%20of%20aqueous%20form_mot",
+			"category": "item",
+			"source": "MOT"
+		},
+		{
+			"displayName": "Pyxis of Pandemonium",
+			"hash": "pyxis%20of%20pandemonium_mot",
+			"category": "item",
+			"source": "MOT"
+		},
+		{
+			"displayName": "Siren Song Lyre",
+			"hash": "siren%20song%20lyre_mot",
+			"category": "item",
+			"source": "MOT"
+		},
+		{
+			"displayName": "Sling Bullets of Althemone",
+			"hash": "sling%20bullets%20of%20althemone_mot",
+			"category": "item",
+			"source": "MOT"
+		},
+		{
+			"displayName": "Two-Birds Sling",
+			"hash": "two-birds%20sling_mot",
+			"category": "item",
+			"source": "MOT"
+		},
+		{
+			"displayName": "Molten Bronze Skin",
+			"hash": "molten%20bronze%20skin_mot",
+			"category": "magicvariant",
+			"source": "MOT"
+		},
+		{
+			"displayName": "Elven Trinket",
+			"hash": "elven%20trinket_mtf",
+			"category": "item",
+			"source": "MTF"
+		},
+		{
+			"displayName": "Greater Silver Sword",
+			"hash": "greater%20silver%20sword_mtf",
+			"category": "item",
+			"source": "MTF"
+		},
+		{
+			"displayName": "Infernal Tack",
+			"hash": "infernal%20tack_mtf",
+			"category": "item",
+			"source": "MTF"
+		},
+		{
+			"displayName": "Silver Sword",
+			"hash": "silver%20sword_mtf",
+			"category": "item",
+			"source": "MTF"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "MaBJoV"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "NRH-ASS"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "NRH-AT"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "NRH-AVitW"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "NRH-AWoL"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "NRH-CoI"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "NRH-TCMC"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "NRH-TLT"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "OGA"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "OoW"
+		},
+		{
+			"displayName": "Hooked Shortspear",
+			"hash": "hooked%20shortspear_oota",
+			"category": "baseitem",
+			"source": "OotA"
+		},
+		{
+			"displayName": "Hooked Shortspear",
+			"hash": "hooked%20shortspear_oota",
+			"category": "baseitem",
+			"source": "OotA"
+		},
+		{
+			"displayName": "Light Repeating Crossbow",
+			"hash": "light%20repeating%20crossbow_oota",
+			"category": "baseitem",
+			"source": "OotA"
+		},
+		{
+			"displayName": "Light Repeating Crossbow",
+			"hash": "light%20repeating%20crossbow_oota",
+			"category": "baseitem",
+			"source": "OotA"
+		},
+		{
+			"displayName": "Dawnbringer",
+			"hash": "dawnbringer_oota",
+			"category": "item",
+			"source": "OotA"
+		},
+		{
+			"displayName": "Gravenhollow Compass Ring",
+			"hash": "gravenhollow%20compass%20ring_oota",
+			"category": "item",
+			"source": "OotA"
+		},
+		{
+			"displayName": "Piwafwi (Cloak of Elvenkind)",
+			"hash": "piwafwi%20(cloak%20of%20elvenkind)_oota",
+			"category": "item",
+			"source": "OotA"
+		},
+		{
+			"displayName": "Piwafwi of Fire Resistance",
+			"hash": "piwafwi%20of%20fire%20resistance_oota",
+			"category": "item",
+			"source": "OotA"
+		},
+		{
+			"displayName": "Spell Gem (Amber)",
+			"hash": "spell%20gem%20(amber)_oota",
+			"category": "item",
+			"source": "OotA"
+		},
+		{
+			"displayName": "Spell Gem (Bloodstone)",
+			"hash": "spell%20gem%20(bloodstone)_oota",
+			"category": "item",
+			"source": "OotA"
+		},
+		{
+			"displayName": "Spell Gem (Diamond)",
+			"hash": "spell%20gem%20(diamond)_oota",
+			"category": "item",
+			"source": "OotA"
+		},
+		{
+			"displayName": "Spell Gem (Jade)",
+			"hash": "spell%20gem%20(jade)_oota",
+			"category": "item",
+			"source": "OotA"
+		},
+		{
+			"displayName": "Spell Gem (Lapis lazuli)",
+			"hash": "spell%20gem%20(lapis%20lazuli)_oota",
+			"category": "item",
+			"source": "OotA"
+		},
+		{
+			"displayName": "Spell Gem (Obsidian)",
+			"hash": "spell%20gem%20(obsidian)_oota",
+			"category": "item",
+			"source": "OotA"
+		},
+		{
+			"displayName": "Spell Gem (Quartz)",
+			"hash": "spell%20gem%20(quartz)_oota",
+			"category": "item",
+			"source": "OotA"
+		},
+		{
+			"displayName": "Spell Gem (Ruby)",
+			"hash": "spell%20gem%20(ruby)_oota",
+			"category": "item",
+			"source": "OotA"
+		},
+		{
+			"displayName": "Spell Gem (Star ruby)",
+			"hash": "spell%20gem%20(star%20ruby)_oota",
+			"category": "item",
+			"source": "OotA"
+		},
+		{
+			"displayName": "Spell Gem (Topaz)",
+			"hash": "spell%20gem%20(topaz)_oota",
+			"category": "item",
+			"source": "OotA"
+		},
+		{
+			"displayName": "Stonespeaker Crystal",
+			"hash": "stonespeaker%20crystal_oota",
+			"category": "item",
+			"source": "OotA"
+		},
+		{
+			"displayName": "Wand of Viscid Globs",
+			"hash": "wand%20of%20viscid%20globs_oota",
+			"category": "item",
+			"source": "OotA"
+		},
+		{
+			"displayName": "Spell Gem",
+			"hash": "spell%20gem_oota",
+			"category": "itemGroup",
+			"source": "OotA"
+		},
+		{
+			"displayName": "Arrow",
+			"hash": "arrow_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Arrows (20)",
+			"hash": "arrows%20(20)_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Battleaxe",
+			"hash": "battleaxe_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Blowgun",
+			"hash": "blowgun_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Blowgun Needle",
+			"hash": "blowgun%20needle_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Blowgun Needles (50)",
+			"hash": "blowgun%20needles%20(50)_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Breastplate",
+			"hash": "breastplate_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Chain Mail",
+			"hash": "chain%20mail_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Chain Shirt",
+			"hash": "chain%20shirt_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Club",
+			"hash": "club_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Crossbow Bolt",
+			"hash": "crossbow%20bolt_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Crossbow Bolts (20)",
+			"hash": "crossbow%20bolts%20(20)_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Crystal",
+			"hash": "crystal_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Dagger",
+			"hash": "dagger_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Dart",
+			"hash": "dart_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Flail",
+			"hash": "flail_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Glaive",
+			"hash": "glaive_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Greataxe",
+			"hash": "greataxe_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Greatclub",
+			"hash": "greatclub_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Greatsword",
+			"hash": "greatsword_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Halberd",
+			"hash": "halberd_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Half Plate Armor",
+			"hash": "half%20plate%20armor_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Hand Crossbow",
+			"hash": "hand%20crossbow_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Handaxe",
+			"hash": "handaxe_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Heavy Crossbow",
+			"hash": "heavy%20crossbow_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Hide Armor",
+			"hash": "hide%20armor_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Javelin",
+			"hash": "javelin_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Lance",
+			"hash": "lance_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Leather Armor",
+			"hash": "leather%20armor_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Light Crossbow",
+			"hash": "light%20crossbow_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Light Hammer",
+			"hash": "light%20hammer_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Longbow",
+			"hash": "longbow_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Longsword",
+			"hash": "longsword_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Mace",
+			"hash": "mace_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Maul",
+			"hash": "maul_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Morningstar",
+			"hash": "morningstar_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Net",
+			"hash": "net_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Orb",
+			"hash": "orb_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Padded Armor",
+			"hash": "padded%20armor_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Pike",
+			"hash": "pike_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Plate Armor",
+			"hash": "plate%20armor_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Quarterstaff",
+			"hash": "quarterstaff_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Rapier",
+			"hash": "rapier_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Ring Mail",
+			"hash": "ring%20mail_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Rod",
+			"hash": "rod_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Scale Mail",
+			"hash": "scale%20mail_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Scimitar",
+			"hash": "scimitar_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Shield",
+			"hash": "shield_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Shortbow",
+			"hash": "shortbow_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Shortsword",
+			"hash": "shortsword_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Sickle",
+			"hash": "sickle_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Sling",
+			"hash": "sling_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Sling Bullet",
+			"hash": "sling%20bullet_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Sling Bullets (20)",
+			"hash": "sling%20bullets%20(20)_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Spear",
+			"hash": "spear_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Splint Armor",
+			"hash": "splint%20armor_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Staff",
+			"hash": "staff_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Studded Leather Armor",
+			"hash": "studded%20leather%20armor_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Trident",
+			"hash": "trident_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Wand",
+			"hash": "wand_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "War Pick",
+			"hash": "war%20pick_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Warhammer",
+			"hash": "warhammer_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Whip",
+			"hash": "whip_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Wooden Staff",
+			"hash": "wooden%20staff_phb",
+			"category": "baseitem",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Alchemist's Supplies",
+			"hash": "alchemist's%20supplies_phb",
+			"category": "item",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Iron",
+			"hash": "iron_phb",
+			"category": "item",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Magnifying Glass",
+			"hash": "magnifying%20glass_phb",
+			"category": "item",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Salt",
+			"hash": "salt_phb",
+			"category": "item",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Shawm",
+			"hash": "shawm_phb",
+			"category": "item",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Sprig of Mistletoe",
+			"hash": "sprig%20of%20mistletoe_phb",
+			"category": "item",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Arcane Focus",
+			"hash": "arcane%20focus_phb",
+			"category": "itemGroup",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Druidic Focus",
+			"hash": "druidic%20focus_phb",
+			"category": "itemGroup",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Gaming Set",
+			"hash": "gaming%20set_phb",
+			"category": "itemGroup",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Holy Symbol",
+			"hash": "holy%20symbol_phb",
+			"category": "itemGroup",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Musical Instrument",
+			"hash": "musical%20instrument_phb",
+			"category": "itemGroup",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Musical Instrument",
+			"hash": "musical%20instrument_phb",
+			"category": "itemGroup",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Barding",
+			"hash": "barding_phb",
+			"category": "magicvariant",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Silvered Ammunition",
+			"hash": "silvered%20ammunition_phb",
+			"category": "magicvariant",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Silvered Weapon",
+			"hash": "silvered%20weapon_phb",
+			"category": "magicvariant",
+			"source": "PHB"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "PSA"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "PSD"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "PSI"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "PSK"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "PSX"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "PSZ"
+		},
+		{
+			"displayName": "Balloon Pack",
+			"hash": "balloon%20pack_pota",
+			"category": "item",
+			"source": "PotA"
+		},
+		{
+			"displayName": "Bottled Breath",
+			"hash": "bottled%20breath_pota",
+			"category": "item",
+			"source": "PotA"
+		},
+		{
+			"displayName": "Claws of the Umber Hulk",
+			"hash": "claws%20of%20the%20umber%20hulk_pota",
+			"category": "item",
+			"source": "PotA"
+		},
+		{
+			"displayName": "Devastation Orb of Air",
+			"hash": "devastation%20orb%20of%20air_pota",
+			"category": "item",
+			"source": "PotA"
+		},
+		{
+			"displayName": "Devastation Orb of Earth",
+			"hash": "devastation%20orb%20of%20earth_pota",
+			"category": "item",
+			"source": "PotA"
+		},
+		{
+			"displayName": "Devastation Orb of Fire",
+			"hash": "devastation%20orb%20of%20fire_pota",
+			"category": "item",
+			"source": "PotA"
+		},
+		{
+			"displayName": "Devastation Orb of Water",
+			"hash": "devastation%20orb%20of%20water_pota",
+			"category": "item",
+			"source": "PotA"
+		},
+		{
+			"displayName": "Dragon Sensing Longsword",
+			"hash": "dragon%20sensing%20longsword_pota",
+			"category": "item",
+			"source": "PotA"
+		},
+		{
+			"displayName": "Drown",
+			"hash": "drown_pota",
+			"category": "item",
+			"source": "PotA"
+		},
+		{
+			"displayName": "Ironfang",
+			"hash": "ironfang_pota",
+			"category": "item",
+			"source": "PotA"
+		},
+		{
+			"displayName": "Lost Crown of Besilmer",
+			"hash": "lost%20crown%20of%20besilmer_pota",
+			"category": "item",
+			"source": "PotA"
+		},
+		{
+			"displayName": "Orcsplitter",
+			"hash": "orcsplitter_pota",
+			"category": "item",
+			"source": "PotA"
+		},
+		{
+			"displayName": "Pathfinder's Greataxe",
+			"hash": "pathfinder's%20greataxe_pota",
+			"category": "item",
+			"source": "PotA"
+		},
+		{
+			"displayName": "Reszur",
+			"hash": "reszur_pota",
+			"category": "item",
+			"source": "PotA"
+		},
+		{
+			"displayName": "Seeker Dart",
+			"hash": "seeker%20dart_pota",
+			"category": "item",
+			"source": "PotA"
+		},
+		{
+			"displayName": "Storm Boomerang",
+			"hash": "storm%20boomerang_pota",
+			"category": "item",
+			"source": "PotA"
+		},
+		{
+			"displayName": "Tinderstrike",
+			"hash": "tinderstrike_pota",
+			"category": "item",
+			"source": "PotA"
+		},
+		{
+			"displayName": "Weird Tank",
+			"hash": "weird%20tank_pota",
+			"category": "item",
+			"source": "PotA"
+		},
+		{
+			"displayName": "Windvane",
+			"hash": "windvane_pota",
+			"category": "item",
+			"source": "PotA"
+		},
+		{
+			"displayName": "Wingwear",
+			"hash": "wingwear_pota",
+			"category": "item",
+			"source": "PotA"
+		},
+		{
+			"displayName": "Devastation Orb",
+			"hash": "devastation%20orb_pota",
+			"category": "itemGroup",
+			"source": "PotA"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "RMBRE"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "RMR"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "item",
+			"source": "RoT"
+		},
+		{
+			"displayName": "Blue Dragon Mask",
+			"hash": "blue%20dragon%20mask_rotos",
+			"category": "item",
+			"source": "RoTOS"
+		},
+		{
+			"displayName": "Green Dragon Mask",
+			"hash": "green%20dragon%20mask_rotos",
+			"category": "item",
+			"source": "RoTOS"
+		},
+		{
+			"displayName": "Red Dragon Mask",
+			"hash": "red%20dragon%20mask_rotos",
+			"category": "item",
+			"source": "RoTOS"
+		},
+		{
+			"displayName": "White Dragon Mask",
+			"hash": "white%20dragon%20mask_rotos",
+			"category": "item",
+			"source": "RoTOS"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "RtG"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "SADS"
+		},
+		{
+			"displayName": "Spiked Armor",
+			"hash": "spiked%20armor_scag",
+			"category": "baseitem",
+			"source": "SCAG"
+		},
+		{
+			"displayName": "Birdpipes",
+			"hash": "birdpipes_scag",
+			"category": "item",
+			"source": "SCAG"
+		},
+		{
+			"displayName": "Glaur",
+			"hash": "glaur_scag",
+			"category": "item",
+			"source": "SCAG"
+		},
+		{
+			"displayName": "Hand Drum",
+			"hash": "hand%20drum_scag",
+			"category": "item",
+			"source": "SCAG"
+		},
+		{
+			"displayName": "Longhorn",
+			"hash": "longhorn_scag",
+			"category": "item",
+			"source": "SCAG"
+		},
+		{
+			"displayName": "Songhorn",
+			"hash": "songhorn_scag",
+			"category": "item",
+			"source": "SCAG"
+		},
+		{
+			"displayName": "Tantan",
+			"hash": "tantan_scag",
+			"category": "item",
+			"source": "SCAG"
+		},
+		{
+			"displayName": "Thelarr",
+			"hash": "thelarr_scag",
+			"category": "item",
+			"source": "SCAG"
+		},
+		{
+			"displayName": "Tocken",
+			"hash": "tocken_scag",
+			"category": "item",
+			"source": "SCAG"
+		},
+		{
+			"displayName": "Wargong",
+			"hash": "wargong_scag",
+			"category": "item",
+			"source": "SCAG"
+		},
+		{
+			"displayName": "Yarting",
+			"hash": "yarting_scag",
+			"category": "item",
+			"source": "SCAG"
+		},
+		{
+			"displayName": "Zulkoon",
+			"hash": "zulkoon_scag",
+			"category": "item",
+			"source": "SCAG"
+		},
+		{
+			"displayName": "Alchemist's Doom",
+			"hash": "alchemist's%20doom_scc",
+			"category": "item",
+			"source": "SCC"
+		},
+		{
+			"displayName": "Bottle of Boundless Coffee",
+			"hash": "bottle%20of%20boundless%20coffee_scc",
+			"category": "item",
+			"source": "SCC"
+		},
+		{
+			"displayName": "Catapult Munition",
+			"hash": "catapult%20munition_scc",
+			"category": "item",
+			"source": "SCC"
+		},
+		{
+			"displayName": "Cuddly Strixhaven Mascot",
+			"hash": "cuddly%20strixhaven%20mascot_scc",
+			"category": "item",
+			"source": "SCC"
+		},
+		{
+			"displayName": "Lorehold Primer",
+			"hash": "lorehold%20primer_scc",
+			"category": "item",
+			"source": "SCC"
+		},
+		{
+			"displayName": "Masque Charm",
+			"hash": "masque%20charm_scc",
+			"category": "item",
+			"source": "SCC"
+		},
+		{
+			"displayName": "Murgaxor's Elixir of Life",
+			"hash": "murgaxor's%20elixir%20of%20life_scc",
+			"category": "item",
+			"source": "SCC"
+		},
+		{
+			"displayName": "Murgaxor's Orb",
+			"hash": "murgaxor's%20orb_scc",
+			"category": "item",
+			"source": "SCC"
+		},
+		{
+			"displayName": "Prismari Primer",
+			"hash": "prismari%20primer_scc",
+			"category": "item",
+			"source": "SCC"
+		},
+		{
+			"displayName": "Quandrix Primer",
+			"hash": "quandrix%20primer_scc",
+			"category": "item",
+			"source": "SCC"
+		},
+		{
+			"displayName": "Silverquill Primer",
+			"hash": "silverquill%20primer_scc",
+			"category": "item",
+			"source": "SCC"
+		},
+		{
+			"displayName": "Strixhaven Pennant",
+			"hash": "strixhaven%20pennant_scc",
+			"category": "item",
+			"source": "SCC"
+		},
+		{
+			"displayName": "Witherbloom Primer",
+			"hash": "witherbloom%20primer_scc",
+			"category": "item",
+			"source": "SCC"
+		},
+		{
+			"displayName": "Bonecounter",
+			"hash": "bonecounter_sdw",
+			"category": "item",
+			"source": "SDW"
+		},
+		{
+			"displayName": "Banner of the Krig Rune",
+			"hash": "banner%20of%20the%20krig%20rune_skt",
+			"category": "item",
+			"source": "SKT"
+		},
+		{
+			"displayName": "Blod Stone",
+			"hash": "blod%20stone_skt",
+			"category": "item",
+			"source": "SKT"
+		},
+		{
+			"displayName": "Claw of the Wyrm Rune",
+			"hash": "claw%20of%20the%20wyrm%20rune_skt",
+			"category": "item",
+			"source": "SKT"
+		},
+		{
+			"displayName": "Clockwork Dog",
+			"hash": "clockwork%20dog_skt",
+			"category": "item",
+			"source": "SKT"
+		},
+		{
+			"displayName": "Conch of Teleportation",
+			"hash": "conch%20of%20teleportation_skt",
+			"category": "item",
+			"source": "SKT"
+		},
+		{
+			"displayName": "Dragon Thighbone Club",
+			"hash": "dragon%20thighbone%20club_skt",
+			"category": "item",
+			"source": "SKT"
+		},
+		{
+			"displayName": "Gavel of the Venn Rune",
+			"hash": "gavel%20of%20the%20venn%20rune_skt",
+			"category": "item",
+			"source": "SKT"
+		},
+		{
+			"displayName": "Gurt's Greataxe",
+			"hash": "gurt's%20greataxe_skt",
+			"category": "item",
+			"source": "SKT"
+		},
+		{
+			"displayName": "Ingot of the Skold Rune",
+			"hash": "ingot%20of%20the%20skold%20rune_skt",
+			"category": "item",
+			"source": "SKT"
+		},
+		{
+			"displayName": "Korolnor Scepter",
+			"hash": "korolnor%20scepter_skt",
+			"category": "item",
+			"source": "SKT"
+		},
+		{
+			"displayName": "Navigation Orb",
+			"hash": "navigation%20orb_skt",
+			"category": "item",
+			"source": "SKT"
+		},
+		{
+			"displayName": "Opal of the Ild Rune",
+			"hash": "opal%20of%20the%20ild%20rune_skt",
+			"category": "item",
+			"source": "SKT"
+		},
+		{
+			"displayName": "Orb of the Stein Rune",
+			"hash": "orb%20of%20the%20stein%20rune_skt",
+			"category": "item",
+			"source": "SKT"
+		},
+		{
+			"displayName": "Pennant of the Vind Rune",
+			"hash": "pennant%20of%20the%20vind%20rune_skt",
+			"category": "item",
+			"source": "SKT"
+		},
+		{
+			"displayName": "Potion of Giant Size",
+			"hash": "potion%20of%20giant%20size_skt",
+			"category": "item",
+			"source": "SKT"
+		},
+		{
+			"displayName": "Robe of Serpents",
+			"hash": "robe%20of%20serpents_skt",
+			"category": "item",
+			"source": "SKT"
+		},
+		{
+			"displayName": "Rod of the Vonindod",
+			"hash": "rod%20of%20the%20vonindod_skt",
+			"category": "item",
+			"source": "SKT"
+		},
+		{
+			"displayName": "Shard of the Ise Rune",
+			"hash": "shard%20of%20the%20ise%20rune_skt",
+			"category": "item",
+			"source": "SKT"
+		},
+		{
+			"displayName": "Wyrmskull Throne",
+			"hash": "wyrmskull%20throne_skt",
+			"category": "item",
+			"source": "SKT"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "SjA"
+		},
+		{
+			"displayName": "+1 All-Purpose Tool",
+			"hash": "%2b1%20all-purpose%20tool_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "+1 Amulet of the Devout",
+			"hash": "%2b1%20amulet%20of%20the%20devout_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "+1 Arcane Grimoire",
+			"hash": "%2b1%20arcane%20grimoire_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "+1 Bloodwell Vial",
+			"hash": "%2b1%20bloodwell%20vial_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "+1 Moon Sickle",
+			"hash": "%2b1%20moon%20sickle_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "+1 Rhythm-Maker's Drum",
+			"hash": "%2b1%20rhythm-maker's%20drum_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "+2 All-Purpose Tool",
+			"hash": "%2b2%20all-purpose%20tool_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "+2 Amulet of the Devout",
+			"hash": "%2b2%20amulet%20of%20the%20devout_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "+2 Arcane Grimoire",
+			"hash": "%2b2%20arcane%20grimoire_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "+2 Bloodwell Vial",
+			"hash": "%2b2%20bloodwell%20vial_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "+2 Moon Sickle",
+			"hash": "%2b2%20moon%20sickle_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "+2 Rhythm-Maker's Drum",
+			"hash": "%2b2%20rhythm-maker's%20drum_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "+3 All-Purpose Tool",
+			"hash": "%2b3%20all-purpose%20tool_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "+3 Amulet of the Devout",
+			"hash": "%2b3%20amulet%20of%20the%20devout_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "+3 Arcane Grimoire",
+			"hash": "%2b3%20arcane%20grimoire_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "+3 Bloodwell Vial",
+			"hash": "%2b3%20bloodwell%20vial_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "+3 Moon Sickle",
+			"hash": "%2b3%20moon%20sickle_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "+3 Rhythm-Maker's Drum",
+			"hash": "%2b3%20rhythm-maker's%20drum_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Acid Absorbing Tattoo",
+			"hash": "acid%20absorbing%20tattoo_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Alchemical Compendium",
+			"hash": "alchemical%20compendium_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Astral Shard",
+			"hash": "astral%20shard_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Astromancy Archive",
+			"hash": "astromancy%20archive_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Atlas of Endless Horizons",
+			"hash": "atlas%20of%20endless%20horizons_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Baba Yaga's Mortar and Pestle",
+			"hash": "baba%20yaga's%20mortar%20and%20pestle_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Baba Yaga's Pestle",
+			"hash": "baba%20yaga's%20pestle_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Barrier Tattoo (Large)",
+			"hash": "barrier%20tattoo%20(large)_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Barrier Tattoo (Medium)",
+			"hash": "barrier%20tattoo%20(medium)_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Barrier Tattoo (Small)",
+			"hash": "barrier%20tattoo%20(small)_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Bell Branch",
+			"hash": "bell%20branch_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Blood Fury Tattoo",
+			"hash": "blood%20fury%20tattoo_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Cauldron of Rebirth",
+			"hash": "cauldron%20of%20rebirth_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Coiling Grasp Tattoo",
+			"hash": "coiling%20grasp%20tattoo_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Cold Absorbing Tattoo",
+			"hash": "cold%20absorbing%20tattoo_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Crook of Rao",
+			"hash": "crook%20of%20rao_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Crystalline Chronicle",
+			"hash": "crystalline%20chronicle_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Demonomicon of Iggwilv",
+			"hash": "demonomicon%20of%20iggwilv_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Devotee's Censer",
+			"hash": "devotee's%20censer_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Duplicitous Manuscript",
+			"hash": "duplicitous%20manuscript_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Eldritch Claw Tattoo",
+			"hash": "eldritch%20claw%20tattoo_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Elemental Essence Shard",
+			"hash": "elemental%20essence%20shard_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Elemental Essence Shard (Air)",
+			"hash": "elemental%20essence%20shard%20(air)_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Elemental Essence Shard (Earth)",
+			"hash": "elemental%20essence%20shard%20(earth)_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Elemental Essence Shard (Fire)",
+			"hash": "elemental%20essence%20shard%20(fire)_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Elemental Essence Shard (Water)",
+			"hash": "elemental%20essence%20shard%20(water)_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Far Realm Shard",
+			"hash": "far%20realm%20shard_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Feywild Shard",
+			"hash": "feywild%20shard_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Fire Absorbing Tattoo",
+			"hash": "fire%20absorbing%20tattoo_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Force Absorbing Tattoo",
+			"hash": "force%20absorbing%20tattoo_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Fulminating Treatise",
+			"hash": "fulminating%20treatise_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Ghost Step Tattoo",
+			"hash": "ghost%20step%20tattoo_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Guardian Emblem",
+			"hash": "guardian%20emblem_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Heart Weaver's Primer",
+			"hash": "heart%20weaver's%20primer_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Illuminator's Tattoo",
+			"hash": "illuminator's%20tattoo_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Libram of Souls and Flesh",
+			"hash": "libram%20of%20souls%20and%20flesh_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Lifewell Tattoo",
+			"hash": "lifewell%20tattoo_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Lightning Absorbing Tattoo",
+			"hash": "lightning%20absorbing%20tattoo_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Luba's Tarokka of Souls",
+			"hash": "luba's%20tarokka%20of%20souls_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Lyre of Building",
+			"hash": "lyre%20of%20building_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Masquerade Tattoo",
+			"hash": "masquerade%20tattoo_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Mighty Servant of Leuk-o",
+			"hash": "mighty%20servant%20of%20leuk-o_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Nature's Mantle",
+			"hash": "nature's%20mantle_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Necrotic Absorbing Tattoo",
+			"hash": "necrotic%20absorbing%20tattoo_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Outer Essence Shard",
+			"hash": "outer%20essence%20shard_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Outer Essence Shard (Chaotic)",
+			"hash": "outer%20essence%20shard%20(chaotic)_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Outer Essence Shard (Evil)",
+			"hash": "outer%20essence%20shard%20(evil)_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Outer Essence Shard (Good)",
+			"hash": "outer%20essence%20shard%20(good)_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Outer Essence Shard (Lawful)",
+			"hash": "outer%20essence%20shard%20(lawful)_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Planecaller's Codex",
+			"hash": "planecaller's%20codex_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Poison Absorbing Tattoo",
+			"hash": "poison%20absorbing%20tattoo_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Prosthetic Limb",
+			"hash": "prosthetic%20limb_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Protective Verses",
+			"hash": "protective%20verses_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Psychic Absorbing Tattoo",
+			"hash": "psychic%20absorbing%20tattoo_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Radiant Absorbing Tattoo",
+			"hash": "radiant%20absorbing%20tattoo_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Reveler's Concertina",
+			"hash": "reveler's%20concertina_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Shadowfell Brand Tattoo",
+			"hash": "shadowfell%20brand%20tattoo_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Shadowfell Shard",
+			"hash": "shadowfell%20shard_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Spellwrought Tattoo (1st Level)",
+			"hash": "spellwrought%20tattoo%20(1st%20level)_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Spellwrought Tattoo (2nd Level)",
+			"hash": "spellwrought%20tattoo%20(2nd%20level)_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Spellwrought Tattoo (3rd Level)",
+			"hash": "spellwrought%20tattoo%20(3rd%20level)_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Spellwrought Tattoo (4th Level)",
+			"hash": "spellwrought%20tattoo%20(4th%20level)_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Spellwrought Tattoo (5th Level)",
+			"hash": "spellwrought%20tattoo%20(5th%20level)_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Spellwrought Tattoo (Cantrip)",
+			"hash": "spellwrought%20tattoo%20(cantrip)_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Teeth of Dahlver-Nar",
+			"hash": "teeth%20of%20dahlver-nar_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Thunder Absorbing Tattoo",
+			"hash": "thunder%20absorbing%20tattoo_tce",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Absorbing Tattoo",
+			"hash": "absorbing%20tattoo_tce",
+			"category": "itemGroup",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Spellwrought Tattoo",
+			"hash": "spellwrought%20tattoo_tce",
+			"category": "itemGroup",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Spellwrought Tattoo",
+			"hash": "spellwrought%20tattoo_tce",
+			"category": "itemGroup",
+			"source": "TCE"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "TLK"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "TTP"
+		},
+		{
+			"displayName": "Amulet of Protection from Turning",
+			"hash": "amulet%20of%20protection%20from%20turning_tftyp",
+			"category": "item",
+			"source": "TftYP"
+		},
+		{
+			"displayName": "Balance of Harmony",
+			"hash": "balance%20of%20harmony_tftyp",
+			"category": "item",
+			"source": "TftYP"
+		},
+		{
+			"displayName": "Bracelet of Rock Magic",
+			"hash": "bracelet%20of%20rock%20magic_tftyp",
+			"category": "item",
+			"source": "TftYP"
+		},
+		{
+			"displayName": "Eagle Whistle",
+			"hash": "eagle%20whistle_tftyp",
+			"category": "item",
+			"source": "TftYP"
+		},
+		{
+			"displayName": "Flame Tongue Shortsword of Greed",
+			"hash": "flame%20tongue%20shortsword%20of%20greed_tftyp",
+			"category": "item",
+			"source": "TftYP"
+		},
+		{
+			"displayName": "Hell Hound Cloak",
+			"hash": "hell%20hound%20cloak_tftyp",
+			"category": "item",
+			"source": "TftYP"
+		},
+		{
+			"displayName": "Javelin of Backbiting",
+			"hash": "javelin%20of%20backbiting_tftyp",
+			"category": "item",
+			"source": "TftYP"
+		},
+		{
+			"displayName": "Junky +1 Dagger",
+			"hash": "junky%20%2b1%20dagger_tftyp",
+			"category": "item",
+			"source": "TftYP"
+		},
+		{
+			"displayName": "Loadstone",
+			"hash": "loadstone_tftyp",
+			"category": "item",
+			"source": "TftYP"
+		},
+		{
+			"displayName": "Macuahuitl",
+			"hash": "macuahuitl_tftyp",
+			"category": "item",
+			"source": "TftYP"
+		},
+		{
+			"displayName": "Mirror of the Past",
+			"hash": "mirror%20of%20the%20past_tftyp",
+			"category": "item",
+			"source": "TftYP"
+		},
+		{
+			"displayName": "Night Caller",
+			"hash": "night%20caller_tftyp",
+			"category": "item",
+			"source": "TftYP"
+		},
+		{
+			"displayName": "Potion of Mind Control (beast)",
+			"hash": "potion%20of%20mind%20control%20(beast)_tftyp",
+			"category": "item",
+			"source": "TftYP"
+		},
+		{
+			"displayName": "Potion of Mind Control (humanoid)",
+			"hash": "potion%20of%20mind%20control%20(humanoid)_tftyp",
+			"category": "item",
+			"source": "TftYP"
+		},
+		{
+			"displayName": "Potion of Mind Control (monster)",
+			"hash": "potion%20of%20mind%20control%20(monster)_tftyp",
+			"category": "item",
+			"source": "TftYP"
+		},
+		{
+			"displayName": "Robe of Summer",
+			"hash": "robe%20of%20summer_tftyp",
+			"category": "item",
+			"source": "TftYP"
+		},
+		{
+			"displayName": "Shatterspike",
+			"hash": "shatterspike_tftyp",
+			"category": "item",
+			"source": "TftYP"
+		},
+		{
+			"displayName": "Spear of Backbiting",
+			"hash": "spear%20of%20backbiting_tftyp",
+			"category": "item",
+			"source": "TftYP"
+		},
+		{
+			"displayName": "Stone of Ill Luck",
+			"hash": "stone%20of%20ill%20luck_tftyp",
+			"category": "item",
+			"source": "TftYP"
+		},
+		{
+			"displayName": "Wand of Entangle",
+			"hash": "wand%20of%20entangle_tftyp",
+			"category": "item",
+			"source": "TftYP"
+		},
+		{
+			"displayName": "Waythe",
+			"hash": "waythe_tftyp",
+			"category": "item",
+			"source": "TftYP"
+		},
+		{
+			"displayName": "White Dragon Cape",
+			"hash": "white%20dragon%20cape_tftyp",
+			"category": "item",
+			"source": "TftYP"
+		},
+		{
+			"displayName": "Potion of Mind Control",
+			"hash": "potion%20of%20mind%20control_tftyp",
+			"category": "itemGroup",
+			"source": "TftYP"
+		},
+		{
+			"displayName": "Yklwa",
+			"hash": "yklwa_toa",
+			"category": "baseitem",
+			"source": "ToA"
+		},
+		{
+			"displayName": "Amulet of the Black Skull",
+			"hash": "amulet%20of%20the%20black%20skull_toa",
+			"category": "item",
+			"source": "ToA"
+		},
+		{
+			"displayName": "Bob",
+			"hash": "bob_toa",
+			"category": "item",
+			"source": "ToA"
+		},
+		{
+			"displayName": "Bookmark",
+			"hash": "bookmark_toa",
+			"category": "item",
+			"source": "ToA"
+		},
+		{
+			"displayName": "Devlin's Staff of Striking",
+			"hash": "devlin's%20staff%20of%20striking_toa",
+			"category": "item",
+			"source": "ToA"
+		},
+		{
+			"displayName": "Draconic Longsword",
+			"hash": "draconic%20longsword_toa",
+			"category": "item",
+			"source": "ToA"
+		},
+		{
+			"displayName": "Ghost Lantern",
+			"hash": "ghost%20lantern_toa",
+			"category": "item",
+			"source": "ToA"
+		},
+		{
+			"displayName": "Mask of the Beast",
+			"hash": "mask%20of%20the%20beast_toa",
+			"category": "item",
+			"source": "ToA"
+		},
+		{
+			"displayName": "Petrified Grung Egg",
+			"hash": "petrified%20grung%20egg_toa",
+			"category": "item",
+			"source": "ToA"
+		},
+		{
+			"displayName": "Ring of Winter",
+			"hash": "ring%20of%20winter_toa",
+			"category": "item",
+			"source": "ToA"
+		},
+		{
+			"displayName": "Scorpion Armor",
+			"hash": "scorpion%20armor_toa",
+			"category": "item",
+			"source": "ToA"
+		},
+		{
+			"displayName": "Staff of the Forgotten One",
+			"hash": "staff%20of%20the%20forgotten%20one_toa",
+			"category": "item",
+			"source": "ToA"
+		},
+		{
+			"displayName": "Tej",
+			"hash": "tej_toa",
+			"category": "item",
+			"source": "ToA"
+		},
+		{
+			"displayName": "Yahcha",
+			"hash": "yahcha_toa",
+			"category": "item",
+			"source": "ToA"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2020Feats"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2020PsionicOptionsRevisited"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2020SpellsAndMagicTattoos"
+		},
+		{
+			"displayName": "Barrier Tattoo",
+			"hash": "barrier%20tattoo_ua2020spellsandmagictattoos",
+			"category": "itemGroup",
+			"source": "UA2020SpellsAndMagicTattoos"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2020SubclassesPt1"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2020SubclassesPt2"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2020SubclassesPt3"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2020SubclassesPt4"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2020SubclassesPt5"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2020SubclassesRevisited"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2021DraconicOptions"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2021FolkOfTheFeywild"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2021GothicLineages"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2021MagesOfStrixhaven"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2021TravelersOfTheMultiverse"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2022GiantOptions"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2022HeroesOfKrynn"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2022HeroesOfKrynnRevisited"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2022WondersOfTheMultiverse"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAATrioOfSubclasses"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAArtificer"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAArtificerRevisited"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UABarbarianAndMonk"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UABarbarianPrimalPaths"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UABardAndPaladin"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UABardBardColleges"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UACentaursMinotaurs"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAClassFeatureVariants"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAClericDivineDomains"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAClericDruidWizard"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UADruid"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAEberron"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAEladrinAndGith"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAElfSubraces"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAFeats"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAFeatsForRaces"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAFeatsForSkills"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAFiendishOptions"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAFighter"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAFighterRangerRogue"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAFighterRogueWizard"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAGiantSoulSorcerer"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAGothicHeroes"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAGreyhawkInitiative"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAKitsOfOld"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UALightDarkUnderdark"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAMassCombat"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAModernMagic"
+		},
+		{
+			"displayName": "Hacking Tools",
+			"hash": "hacking%20tools_uamodernmagic",
+			"category": "item",
+			"source": "UAModernMagic"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAModifyingClasses"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAMonk"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAOfShipsAndSea"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAOrderDomain"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAPaladin"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAPrestigeClassesRunMagic"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UARacesOfEberron"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UARacesOfRavnica"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UARanger"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UARangerAndRogue"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UARevisedClassOptions"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UARevisedSubclasses"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UASidekicks"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UASorcerer"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UASorcererAndWarlock"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAStarterSpells"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAThatOldBlackMagic"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UATheFaithful"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UATheMysticClass"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UATheRangerRevised"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAThreePillarExperience"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAThreeSubclasses"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAVariantRules"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAWGE"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAWarlockAndWizard"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAWaterborneAdventures"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAWizardRevisited"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "VD"
+		},
+		{
+			"displayName": "Flensing Claws (Huge)",
+			"hash": "flensing%20claws%20(huge)_vgm",
+			"category": "item",
+			"source": "VGM"
+		},
+		{
+			"displayName": "Flensing Claws (Large)",
+			"hash": "flensing%20claws%20(large)_vgm",
+			"category": "item",
+			"source": "VGM"
+		},
+		{
+			"displayName": "Flensing Claws (Medium)",
+			"hash": "flensing%20claws%20(medium)_vgm",
+			"category": "item",
+			"source": "VGM"
+		},
+		{
+			"displayName": "Flensing Claws (Small)",
+			"hash": "flensing%20claws%20(small)_vgm",
+			"category": "item",
+			"source": "VGM"
+		},
+		{
+			"displayName": "Mind Lash",
+			"hash": "mind%20lash_vgm",
+			"category": "item",
+			"source": "VGM"
+		},
+		{
+			"displayName": "Shield of Far Sight",
+			"hash": "shield%20of%20far%20sight_vgm",
+			"category": "item",
+			"source": "VGM"
+		},
+		{
+			"displayName": "Survival Mantle",
+			"hash": "survival%20mantle_vgm",
+			"category": "item",
+			"source": "VGM"
+		},
+		{
+			"displayName": "Flensing Claws",
+			"hash": "flensing%20claws_vgm",
+			"category": "itemGroup",
+			"source": "VGM"
+		},
+		{
+			"displayName": "Mind Blade",
+			"hash": "mind%20blade_vgm",
+			"category": "magicvariant",
+			"source": "VGM"
+		},
+		{
+			"displayName": "Mind Carapace Armor",
+			"hash": "mind%20carapace%20armor_vgm",
+			"category": "magicvariant",
+			"source": "VGM"
+		},
+		{
+			"displayName": "Harkon's Bite",
+			"hash": "harkon's%20bite_vrgr",
+			"category": "item",
+			"source": "VRGR"
+		},
+		{
+			"displayName": "Horror Trinket",
+			"hash": "horror%20trinket_vrgr",
+			"category": "item",
+			"source": "VRGR"
+		},
+		{
+			"displayName": "Ivana's Whisper",
+			"hash": "ivana's%20whisper_vrgr",
+			"category": "item",
+			"source": "VRGR"
+		},
+		{
+			"displayName": "Nepenthe",
+			"hash": "nepenthe_vrgr",
+			"category": "item",
+			"source": "VRGR"
+		},
+		{
+			"displayName": "Black Chromatic Rose",
+			"hash": "black%20chromatic%20rose_wbtw",
+			"category": "item",
+			"source": "WBtW"
+		},
+		{
+			"displayName": "Blue Chromatic Rose",
+			"hash": "blue%20chromatic%20rose_wbtw",
+			"category": "item",
+			"source": "WBtW"
+		},
+		{
+			"displayName": "Bobbing Lily Pad",
+			"hash": "bobbing%20lily%20pad_wbtw",
+			"category": "item",
+			"source": "WBtW"
+		},
+		{
+			"displayName": "Dust of Corrosion",
+			"hash": "dust%20of%20corrosion_wbtw",
+			"category": "item",
+			"source": "WBtW"
+		},
+		{
+			"displayName": "Eldritch Staff",
+			"hash": "eldritch%20staff_wbtw",
+			"category": "item",
+			"source": "WBtW"
+		},
+		{
+			"displayName": "Feywild Trinket",
+			"hash": "feywild%20trinket_wbtw",
+			"category": "item",
+			"source": "WBtW"
+		},
+		{
+			"displayName": "Green Chromatic Rose",
+			"hash": "green%20chromatic%20rose_wbtw",
+			"category": "item",
+			"source": "WBtW"
+		},
+		{
+			"displayName": "Iggwilv's Cauldron",
+			"hash": "iggwilv's%20cauldron_wbtw",
+			"category": "item",
+			"source": "WBtW"
+		},
+		{
+			"displayName": "Ornithopter of Flying",
+			"hash": "ornithopter%20of%20flying_wbtw",
+			"category": "item",
+			"source": "WBtW"
+		},
+		{
+			"displayName": "Pixie Dust",
+			"hash": "pixie%20dust_wbtw",
+			"category": "item",
+			"source": "WBtW"
+		},
+		{
+			"displayName": "Potion of Advantage",
+			"hash": "potion%20of%20advantage_wbtw",
+			"category": "item",
+			"source": "WBtW"
+		},
+		{
+			"displayName": "Red Chromatic Rose",
+			"hash": "red%20chromatic%20rose_wbtw",
+			"category": "item",
+			"source": "WBtW"
+		},
+		{
+			"displayName": "Scissors of Shadow Snipping",
+			"hash": "scissors%20of%20shadow%20snipping_wbtw",
+			"category": "item",
+			"source": "WBtW"
+		},
+		{
+			"displayName": "Snicker-Snack",
+			"hash": "snicker-snack_wbtw",
+			"category": "item",
+			"source": "WBtW"
+		},
+		{
+			"displayName": "Steel",
+			"hash": "steel_wbtw",
+			"category": "item",
+			"source": "WBtW"
+		},
+		{
+			"displayName": "White Chromatic Rose",
+			"hash": "white%20chromatic%20rose_wbtw",
+			"category": "item",
+			"source": "WBtW"
+		},
+		{
+			"displayName": "Witchlight Vane",
+			"hash": "witchlight%20vane_wbtw",
+			"category": "item",
+			"source": "WBtW"
+		},
+		{
+			"displayName": "Witchlight Watch",
+			"hash": "witchlight%20watch_wbtw",
+			"category": "item",
+			"source": "WBtW"
+		},
+		{
+			"displayName": "Woodcutter's Axe",
+			"hash": "woodcutter's%20axe_wbtw",
+			"category": "item",
+			"source": "WBtW"
+		},
+		{
+			"displayName": "Chromatic Rose",
+			"hash": "chromatic%20rose_wbtw",
+			"category": "itemGroup",
+			"source": "WBtW"
+		},
+		{
+			"displayName": "Adjustable Stilts",
+			"hash": "adjustable%20stilts_wdh",
+			"category": "item",
+			"source": "WDH"
+		},
+		{
+			"displayName": "Azuredge",
+			"hash": "azuredge_wdh",
+			"category": "item",
+			"source": "WDH"
+		},
+		{
+			"displayName": "Backpack Parachute",
+			"hash": "backpack%20parachute_wdh",
+			"category": "item",
+			"source": "WDH"
+		},
+		{
+			"displayName": "Badge of the Watch",
+			"hash": "badge%20of%20the%20watch_wdh",
+			"category": "item",
+			"source": "WDH"
+		},
+		{
+			"displayName": "Barking Box",
+			"hash": "barking%20box_wdh",
+			"category": "item",
+			"source": "WDH"
+		},
+		{
+			"displayName": "Blackstaff",
+			"hash": "blackstaff_wdh",
+			"category": "item",
+			"source": "WDH"
+		},
+		{
+			"displayName": "Bracer of Flying Daggers",
+			"hash": "bracer%20of%20flying%20daggers_wdh",
+			"category": "item",
+			"source": "WDH"
+		},
+		{
+			"displayName": "Charred Wand of Magic Missiles",
+			"hash": "charred%20wand%20of%20magic%20missiles_wdh",
+			"category": "item",
+			"source": "WDH"
+		},
+		{
+			"displayName": "Dragon",
+			"hash": "dragon_wdh",
+			"category": "item",
+			"source": "WDH"
+		},
+		{
+			"displayName": "Dragonstaff of Ahghairon",
+			"hash": "dragonstaff%20of%20ahghairon_wdh",
+			"category": "item",
+			"source": "WDH"
+		},
+		{
+			"displayName": "Feather of Diatryma Summoning",
+			"hash": "feather%20of%20diatryma%20summoning_wdh",
+			"category": "item",
+			"source": "WDH"
+		},
+		{
+			"displayName": "Harbor Moon",
+			"hash": "harbor%20moon_wdh",
+			"category": "item",
+			"source": "WDH"
+		},
+		{
+			"displayName": "Knave's Eye Patch",
+			"hash": "knave's%20eye%20patch_wdh",
+			"category": "item",
+			"source": "WDH"
+		},
+		{
+			"displayName": "Lord's Ensemble",
+			"hash": "lord's%20ensemble_wdh",
+			"category": "item",
+			"source": "WDH"
+		},
+		{
+			"displayName": "Matchless Pipe",
+			"hash": "matchless%20pipe_wdh",
+			"category": "item",
+			"source": "WDH"
+		},
+		{
+			"displayName": "Nib",
+			"hash": "nib_wdh",
+			"category": "item",
+			"source": "WDH"
+		},
+		{
+			"displayName": "Nimblewright Detector",
+			"hash": "nimblewright%20detector_wdh",
+			"category": "item",
+			"source": "WDH"
+		},
+		{
+			"displayName": "Oversized Longbow",
+			"hash": "oversized%20longbow_wdh",
+			"category": "item",
+			"source": "WDH"
+		},
+		{
+			"displayName": "Paper Bird",
+			"hash": "paper%20bird_wdh",
+			"category": "item",
+			"source": "WDH"
+		},
+		{
+			"displayName": "Ring of Truth Telling",
+			"hash": "ring%20of%20truth%20telling_wdh",
+			"category": "item",
+			"source": "WDH"
+		},
+		{
+			"displayName": "Shard",
+			"hash": "shard_wdh",
+			"category": "item",
+			"source": "WDH"
+		},
+		{
+			"displayName": "Smokepowder",
+			"hash": "smokepowder_wdh",
+			"category": "item",
+			"source": "WDH"
+		},
+		{
+			"displayName": "Stone of Golorr",
+			"hash": "stone%20of%20golorr_wdh",
+			"category": "item",
+			"source": "WDH"
+		},
+		{
+			"displayName": "Sun",
+			"hash": "sun_wdh",
+			"category": "item",
+			"source": "WDH"
+		},
+		{
+			"displayName": "Taol",
+			"hash": "taol_wdh",
+			"category": "item",
+			"source": "WDH"
+		},
+		{
+			"displayName": "Teleporter Ring",
+			"hash": "teleporter%20ring_wdh",
+			"category": "item",
+			"source": "WDH"
+		},
+		{
+			"displayName": "Black Crystal Tablet",
+			"hash": "black%20crystal%20tablet_wdmm",
+			"category": "item",
+			"source": "WDMM"
+		},
+		{
+			"displayName": "Blast Scepter",
+			"hash": "blast%20scepter_wdmm",
+			"category": "item",
+			"source": "WDMM"
+		},
+		{
+			"displayName": "Chest of Preserving",
+			"hash": "chest%20of%20preserving_wdmm",
+			"category": "item",
+			"source": "WDMM"
+		},
+		{
+			"displayName": "Circlet of Human Perfection",
+			"hash": "circlet%20of%20human%20perfection_wdmm",
+			"category": "item",
+			"source": "WDMM"
+		},
+		{
+			"displayName": "Dagger of Blindsight",
+			"hash": "dagger%20of%20blindsight_wdmm",
+			"category": "item",
+			"source": "WDMM"
+		},
+		{
+			"displayName": "Dagger of Guitar Solos",
+			"hash": "dagger%20of%20guitar%20solos_wdmm",
+			"category": "item",
+			"source": "WDMM"
+		},
+		{
+			"displayName": "Dodecahedron of Doom",
+			"hash": "dodecahedron%20of%20doom_wdmm",
+			"category": "item",
+			"source": "WDMM"
+		},
+		{
+			"displayName": "Falkir's Helm of Pigheadedness",
+			"hash": "falkir's%20helm%20of%20pigheadedness_wdmm",
+			"category": "item",
+			"source": "WDMM"
+		},
+		{
+			"displayName": "Helm of the Scavenger",
+			"hash": "helm%20of%20the%20scavenger_wdmm",
+			"category": "item",
+			"source": "WDMM"
+		},
+		{
+			"displayName": "Horn of the Endless Maze",
+			"hash": "horn%20of%20the%20endless%20maze_wdmm",
+			"category": "item",
+			"source": "WDMM"
+		},
+		{
+			"displayName": "Horned Ring",
+			"hash": "horned%20ring_wdmm",
+			"category": "item",
+			"source": "WDMM"
+		},
+		{
+			"displayName": "Jade Serpent Staff",
+			"hash": "jade%20serpent%20staff_wdmm",
+			"category": "item",
+			"source": "WDMM"
+		},
+		{
+			"displayName": "Maddgoth's Helm",
+			"hash": "maddgoth's%20helm_wdmm",
+			"category": "item",
+			"source": "WDMM"
+		},
+		{
+			"displayName": "Mind Flayer Skull",
+			"hash": "mind%20flayer%20skull_wdmm",
+			"category": "item",
+			"source": "WDMM"
+		},
+		{
+			"displayName": "Orb of Gonging",
+			"hash": "orb%20of%20gonging_wdmm",
+			"category": "item",
+			"source": "WDMM"
+		},
+		{
+			"displayName": "Potion of Comprehension",
+			"hash": "potion%20of%20comprehension_wdmm",
+			"category": "item",
+			"source": "WDMM"
+		},
+		{
+			"displayName": "Potion of Watchful Rest",
+			"hash": "potion%20of%20watchful%20rest_wdmm",
+			"category": "item",
+			"source": "WDMM"
+		},
+		{
+			"displayName": "Professor Orb",
+			"hash": "professor%20orb_wdmm",
+			"category": "item",
+			"source": "WDMM"
+		},
+		{
+			"displayName": "Propeller Helm",
+			"hash": "propeller%20helm_wdmm",
+			"category": "item",
+			"source": "WDMM"
+		},
+		{
+			"displayName": "Shield of the Uven Rune",
+			"hash": "shield%20of%20the%20uven%20rune_wdmm",
+			"category": "item",
+			"source": "WDMM"
+		},
+		{
+			"displayName": "Tangler Grenade",
+			"hash": "tangler%20grenade_wdmm",
+			"category": "item",
+			"source": "WDMM"
+		},
+		{
+			"displayName": "Tearulai",
+			"hash": "tearulai_wdmm",
+			"category": "item",
+			"source": "WDMM"
+		},
+		{
+			"displayName": "Vanrak's Mithral Shirt",
+			"hash": "vanrak's%20mithral%20shirt_wdmm",
+			"category": "item",
+			"source": "WDMM"
+		},
+		{
+			"displayName": "Vial of Stardust",
+			"hash": "vial%20of%20stardust_wdmm",
+			"category": "item",
+			"source": "WDMM"
+		},
+		{
+			"displayName": "Wyllow's Staff of Flowers",
+			"hash": "wyllow's%20staff%20of%20flowers_wdmm",
+			"category": "item",
+			"source": "WDMM"
+		},
+		{
+			"displayName": "Bead of Nourishment",
+			"hash": "bead%20of%20nourishment_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Bead of Refreshment",
+			"hash": "bead%20of%20refreshment_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Boots of False Tracks",
+			"hash": "boots%20of%20false%20tracks_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Candle of the Deep",
+			"hash": "candle%20of%20the%20deep_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Charlatan's Die",
+			"hash": "charlatan's%20die_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Cloak of Billowing",
+			"hash": "cloak%20of%20billowing_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Cloak of Many Fashions",
+			"hash": "cloak%20of%20many%20fashions_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Clockwork Amulet",
+			"hash": "clockwork%20amulet_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Clothes of Mending",
+			"hash": "clothes%20of%20mending_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Dark Shard Amulet",
+			"hash": "dark%20shard%20amulet_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Dread Helm",
+			"hash": "dread%20helm_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Ear Horn of Hearing",
+			"hash": "ear%20horn%20of%20hearing_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Enduring Spellbook",
+			"hash": "enduring%20spellbook_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Ersatz Eye",
+			"hash": "ersatz%20eye_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Hat of Vermin",
+			"hash": "hat%20of%20vermin_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Hat of Wizardry",
+			"hash": "hat%20of%20wizardry_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Heward's Handy Spice Pouch",
+			"hash": "heward's%20handy%20spice%20pouch_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Horn of Silent Alarm",
+			"hash": "horn%20of%20silent%20alarm_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Instrument of Illusions",
+			"hash": "instrument%20of%20illusions_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Instrument of Scribing",
+			"hash": "instrument%20of%20scribing_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Lock of Trickery",
+			"hash": "lock%20of%20trickery_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Mystery Key",
+			"hash": "mystery%20key_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Orb of Direction",
+			"hash": "orb%20of%20direction_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Orb of Time",
+			"hash": "orb%20of%20time_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Perfume of Bewitching",
+			"hash": "perfume%20of%20bewitching_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Pipe of Smoke Monsters",
+			"hash": "pipe%20of%20smoke%20monsters_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Pole of Angling",
+			"hash": "pole%20of%20angling_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Pole of Collapsing",
+			"hash": "pole%20of%20collapsing_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Pot of Awakening",
+			"hash": "pot%20of%20awakening_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Rope of Mending",
+			"hash": "rope%20of%20mending_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Ruby of the War Mage",
+			"hash": "ruby%20of%20the%20war%20mage_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Shield of Expression",
+			"hash": "shield%20of%20expression_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Staff of Adornment",
+			"hash": "staff%20of%20adornment_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Staff of Birdcalls",
+			"hash": "staff%20of%20birdcalls_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Staff of Flowers",
+			"hash": "staff%20of%20flowers_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Talking Doll",
+			"hash": "talking%20doll_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Tankard of Sobriety",
+			"hash": "tankard%20of%20sobriety_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Unbreakable Arrow",
+			"hash": "unbreakable%20arrow_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Veteran's Cane",
+			"hash": "veteran's%20cane_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Wand of Conducting",
+			"hash": "wand%20of%20conducting_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Wand of Pyrotechnics",
+			"hash": "wand%20of%20pyrotechnics_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Wand of Scowls",
+			"hash": "wand%20of%20scowls_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Wand of Smiles",
+			"hash": "wand%20of%20smiles_xge",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Adamantine Ammunition",
+			"hash": "adamantine%20ammunition_xge",
+			"category": "magicvariant",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Adamantine Weapon",
+			"hash": "adamantine%20weapon_xge",
+			"category": "magicvariant",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Armor of Gleaming",
+			"hash": "armor%20of%20gleaming_xge",
+			"category": "magicvariant",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Cast-Off Armor",
+			"hash": "cast-off%20armor_xge",
+			"category": "magicvariant",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Moon-Touched Sword",
+			"hash": "moon-touched%20sword_xge",
+			"category": "magicvariant",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Smoldering Armor",
+			"hash": "smoldering%20armor_xge",
+			"category": "magicvariant",
+			"source": "XGE"
+		},
+		{
+			"displayName": "Walloping Ammunition",
+			"hash": "walloping%20ammunition_xge",
+			"category": "magicvariant",
+			"source": "XGE"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "XMtS"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "race",
+			"source": "MOT"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "race",
+			"source": "GGR"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "race",
+			"source": "EEPC"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "race",
+			"source": "EGW"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "race",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "race",
+			"source": "DMG"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "race",
+			"source": "VGM"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "race",
+			"source": "WBtW"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "race",
+			"source": "TCE"
+		},
+		{
+			"displayName": "Dragonborn",
+			"hash": "dragonborn_phb",
+			"category": "race",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Dragonborn (Black)",
+			"hash": "dragonborn%20(black)_phb",
+			"category": "race",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Dragonborn (Blue)",
+			"hash": "dragonborn%20(blue)_phb",
+			"category": "race",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Dragonborn (Brass)",
+			"hash": "dragonborn%20(brass)_phb",
+			"category": "race",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Dragonborn (Bronze)",
+			"hash": "dragonborn%20(bronze)_phb",
+			"category": "race",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Dragonborn (Copper)",
+			"hash": "dragonborn%20(copper)_phb",
+			"category": "race",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Dragonborn (Gold)",
+			"hash": "dragonborn%20(gold)_phb",
+			"category": "race",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Dragonborn (Green)",
+			"hash": "dragonborn%20(green)_phb",
+			"category": "race",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Dragonborn (Red)",
+			"hash": "dragonborn%20(red)_phb",
+			"category": "race",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Dragonborn (Silver)",
+			"hash": "dragonborn%20(silver)_phb",
+			"category": "race",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Dragonborn (White)",
+			"hash": "dragonborn%20(white)_phb",
+			"category": "race",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Dragonborn (Draconblood)",
+			"hash": "dragonborn%20(draconblood)_egw",
+			"category": "race",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Dragonborn (Ravenite)",
+			"hash": "dragonborn%20(ravenite)_egw",
+			"category": "race",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Tiefling",
+			"hash": "tiefling_phb",
+			"category": "race",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Gnome (Deep/Svirfneblin)",
+			"hash": "gnome%20(deep%2fsvirfneblin)_scag",
+			"category": "race",
+			"source": "SCAG"
+		},
+		{
+			"displayName": "Gith (Githyanki)",
+			"hash": "gith%20(githyanki)_mtf",
+			"category": "race",
+			"source": "MTF"
+		},
+		{
+			"displayName": "Gith (Githzerai)",
+			"hash": "gith%20(githzerai)_mtf",
+			"category": "race",
+			"source": "MTF"
+		},
+		{
+			"displayName": "Elf (Shadar-kai)",
+			"hash": "elf%20(shadar-kai)_mtf",
+			"category": "race",
+			"source": "MTF"
+		},
+		{
+			"displayName": "Elf (Sea)",
+			"hash": "elf%20(sea)_mtf",
+			"category": "race",
+			"source": "MTF"
+		},
+		{
+			"displayName": "Elf (Eladrin)",
+			"hash": "elf%20(eladrin)_mtf",
+			"category": "race",
+			"source": "MTF"
+		},
+		{
+			"displayName": "Dwarf (Duergar)",
+			"hash": "dwarf%20(duergar)_mtf",
+			"category": "race",
+			"source": "MTF"
+		},
+		{
+			"displayName": "Dragonborn (Base)",
+			"hash": "dragonborn%20(base)_phb",
+			"category": "race",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Dwarf",
+			"hash": "dwarf_phb",
+			"category": "race",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Elf",
+			"hash": "elf_phb",
+			"category": "race",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Gnome",
+			"hash": "gnome_phb",
+			"category": "race",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Half-Elf",
+			"hash": "half-elf_phb",
+			"category": "race",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Half-Elf (Base)",
+			"hash": "half-elf%20(base)_phb",
+			"category": "race",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Halfling",
+			"hash": "halfling_phb",
+			"category": "race",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Human (Base)",
+			"hash": "human%20(base)_phb",
+			"category": "race",
+			"source": "PHB"
+		},
+		{
+			"displayName": "Tiefling (Base)",
+			"hash": "tiefling%20(base)_phb",
+			"category": "race",
+			"source": "PHB"
+		}
+	]
+}
